@@ -1,6 +1,6 @@
 (() => {
   "use strict";
-  const DATA_URL = "../data/meteo_home.json";
+  const DATA_URL = "./data/meteo_home.json";
   const CACHE_KEY = "meteo-home-last-json-v1";
   const MODEL_KEYS = ["ECMWF", "GFS", "AROME"];
   const MODEL_LABELS = {ECMWF:"ECMWF", GFS:"GFS", AROME:"AROME"};
