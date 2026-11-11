@@ -89,15 +89,35 @@
     if(data) render();
   }
 
+  
   function render() {
-    const l=loc(); if(!l) { $("dataStatus").textContent="No hay datos para esta ubicación."; return; }
-    $("placeName").textContent=l.name || (placeId==="oco"?"Oco":"Hortaleza");
-    $("placeMeta").textContent=l.coordinates ? `${fmt(l.coordinates.latitude,3)} · ${fmt(l.coordinates.longitude,3)}` : (placeId==="oco"?"Ávila":"Madrid");
-    document.querySelectorAll(".place-choice").forEach(b=>b.classList.toggle("active",b.dataset.place===placeId));
-    const stamp=l.generated_at || data.generated_at;
-    $("updatedAt").textContent=`Última actualización: ${stamp ? new Date(stamp).toLocaleString("es-ES",{dateStyle:"medium",timeStyle:"short"}) : "—"}`;
-    renderHome(l); renderHours(l); renderDays(l); renderAlerts(l);
+    document.querySelectorAll(".place-choice").forEach(b =>
+      b.classList.toggle("active", b.dataset.place === placeId)
+    );
+
+    const l = loc();
+
+    if (!l) {
+      $("placeName").textContent = placeId === "oco" ? "Oco" : "Hortaleza";
+      $("placeMeta").textContent = placeId === "oco" ? "Ávila" : "Madrid";
+      $("dataStatus").textContent = "No hay datos para esta ubicación.";
+      return;
+    }
+
+    $("placeName").textContent = l.name || (placeId === "oco" ? "Oco" : "Hortaleza");
+    $("placeMeta").textContent = l.coordinates
+      ? `${fmt(l.coordinates.latitude, 3)} · ${fmt(l.coordinates.longitude, 3)}`
+      : (placeId === "oco" ? "Ávila" : "Madrid");
+
+    const stamp = l.generated_at || data.generated_at;
+    $("updatedAt").textContent = `Última actualización: ${stamp ? new Date(stamp).toLocaleString("es-ES", {dateStyle:"medium",timeStyle:"short"}) : "—"}`;
+
+    renderHome(l);
+    renderHours(l);
+    renderDays(l);
+    renderAlerts(l);
   }
+
 
   function renderHome(l) {
     const dates=datesFor(l), today=dateKey(l.generated_at || data.generated_at), date=dates.includes(today)?today:(dates[0]||today);
