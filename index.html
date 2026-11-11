@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#f4f2e9">
+  <meta name="description" content="Previsión meteorológica sencilla para Hortaleza y Oco.">
+  <title>Meteo Home</title>
+  <link rel="manifest" href="./manifest.webmanifest">
+  <link rel="icon" href="./icons/icon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-mark">☀</div>
+        <div><div class="brand-name">Meteo Home</div><div class="brand-sub">El tiempo, de un vistazo</div></div>
+      </div>
+      <div class="top-actions">
+        <span id="connection" class="connection"><i></i> Conectando</span>
+        <button id="refresh" class="icon-button" aria-label="Actualizar datos" title="Actualizar">↻</button>
+      </div>
+    </header>
+
+    <main>
+      <section class="placebar">
+        <div>
+          <div class="eyebrow">UBICACIÓN</div>
+          <div class="place-name" id="placeName">Hortaleza</div>
+          <div class="place-meta" id="placeMeta">Madrid</div>
+        </div>
+        <div class="place-switch" role="group" aria-label="Elegir ubicación">
+          <button class="place-choice active" data-place="hortaleza">Hortaleza</button>
+          <button class="place-choice" data-place="oco">Oco</button>
+        </div>
+      </section>
+
+      <section id="view-home" class="view active">
+        <div id="hero" class="hero-card">
+          <div class="hero-top"><span id="todayLabel">HOY</span><span id="weatherPhrase">Previsión disponible</span></div>
+          <div class="hero-main"><div><div class="hero-temp" id="heroTemp">—°</div><div class="hero-range" id="heroRange">Máx. —° · Mín. —°</div></div><div class="hero-symbol" id="heroSymbol">⛅</div></div>
+          <div class="hero-stats">
+            <div><span>☂</span><b id="heroRain">—</b><small>Lluvia</small></div>
+            <div><span>💨</span><b id="heroWind">—</b><small>Racha máx.</small></div>
+            <div><span>◉</span><b id="heroAQI">—</b><small>Aire (AQI)</small></div>
+          </div>
+        </div>
+        <div class="section-heading"><div><div class="eyebrow">PRÓXIMAS HORAS</div><h2>Así evoluciona el día</h2></div><button class="text-button" data-go="hours">Ver 48 h →</button></div>
+        <div id="homeHours" class="hour-strip"></div>
+        <div class="section-heading"><div><div class="eyebrow">PRÓXIMOS DÍAS</div><h2>La semana a la vista</h2></div><button class="text-button" data-go="days">Ver 5 días →</button></div>
+        <div id="homeDays" class="day-list compact"></div>
+        <div id="homeNotice"></div>
+      </section>
+
+      <section id="view-hours" class="view">
+        <div class="page-intro"><div class="eyebrow">DETALLE HORARIO</div><h1>Próximas 48 horas</h1><p>Temperatura y lluvia previstas por los distintos modelos.</p></div>
+        <div class="card chart-card"><div class="card-title"><h2>Temperatura y precipitación</h2><span class="unit">°C · mm/h</span></div><div id="hourChart" class="chart-wrap"></div><div class="legend"><span><i class="dot ecmwf"></i>ECMWF</span><span><i class="dot gfs"></i>GFS</span><span><i class="dot arome"></i>AROME</span><span><i class="bar-dot"></i>Lluvia</span></div></div>
+        <div class="card"><div class="card-title"><h2>Detalle por modelo</h2><span class="unit">mm/h</span></div><p class="muted small">Los guiones indican que ese modelo no ofrece ese dato.</p><div id="hourTable" class="table-scroll"></div></div>
+        <div class="card"><div class="card-title"><h2>Probabilidad de lluvia</h2><span class="unit">%</span></div><div id="probability" class="prob-strip"></div></div>
+      </section>
+
+      <section id="view-days" class="view">
+        <div class="page-intro"><div class="eyebrow">PREVISIÓN DIARIA</div><h1>Próximos 5 días</h1><p>Comparación de los modelos disponibles para cada jornada.</p></div>
+        <div id="daysList" class="day-list"></div>
+        <div class="card"><div class="card-title"><h2>Cómo interpretar los modelos</h2></div><p class="muted">ECMWF y GFS ofrecen la referencia principal. AROME aporta detalle a corto plazo y puede no cubrir todos los días. Cuando falta un dato, mostramos un guion en lugar de asumir que es cero.</p></div>
+      </section>
+
+      <section id="view-alerts" class="view">
+        <div class="page-intro"><div class="eyebrow">INFORMACIÓN IMPORTANTE</div><h1>Avisos y calidad del aire</h1><p>Señales detectadas en la última previsión disponible.</p></div>
+        <div id="alertSummary"></div>
+        <div class="card"><div class="card-title"><h2>Avisos de los modelos</h2></div><div id="modelAlerts"></div></div>
+        <div class="card"><div class="card-title"><h2>Avisos oficiales AEMET</h2></div><div id="aemetAlerts"></div></div>
+        <div class="card"><div class="card-title"><h2>Calidad del aire</h2><span class="unit">AQI</span></div><div id="airQuality" class="air-grid"></div><p class="muted small">Cuanto más bajo es el índice, mejor es la calidad del aire.</p></div>
+      </section>
+    </main>
+
+    <footer class="app-footer">
+      <div id="updatedAt">Última actualización: —</div>
+      <div id="dataStatus" class="data-status">Cargando previsión…</div>
+    </footer>
+
+    <nav class="bottom-nav" aria-label="Navegación principal">
+      <button class="nav-item active" data-view="home"><span>⌂</span><small>Inicio</small></button>
+      <button class="nav-item" data-view="hours"><span>◷</span><small>48 horas</small></button>
+      <button class="nav-item" data-view="days"><span>▦</span><small>5 días</small></button>
+      <button class="nav-item" data-view="alerts"><span>⚑</span><small>Avisos</small></button>
+    </nav>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div>
+  <script src="./app.js" defer></script>
+</body>
+</html>
