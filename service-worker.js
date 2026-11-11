@@ -1,5 +1,5 @@
 
-const CACHE_NAME = "meteo-home-shell-v2";
+const CACHE_NAME = "meteo-home-shell-v3";
 
 const SHELL = [
   "./",
