@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-22T08:10:04.519564+01:00",
+  "generated_at": "2026-11-22T20:51:06.117864+01:00",
   "timezone": "Europe/Madrid",
   "source": "Meteo v14",
   "locations": {
@@ -12,119 +12,119 @@
         "longitude": -3.639,
         "elevation_m": 680
       },
-      "generated_at": "2026-11-22T08:11:14.735872+01:00",
+      "generated_at": "2026-11-22T20:51:13.923034+01:00",
       "timezone": "Europe/Madrid",
       "daily": {
         "models": {
           "ECMWF (europeo)": {
             "2026-11-22": {
-              "tmax": 13.2,
-              "tmin": 5.4,
+              "tmax": 12.9,
+              "tmin": 5.1,
               "rain_prob": 95,
-              "rain_mm": 2.3,
+              "rain_mm": 2.4,
               "snow_cm": 0.0,
-              "wind_gust": 36.7,
-              "wind_dir": 266,
+              "wind_gust": 37.1,
+              "wind_dir": 268,
               "weather_code": 53,
-              "feels_max": 9.2,
-              "feels_min": 2.7,
-              "t850_min": 2.4,
+              "feels_max": 8.8,
+              "feels_min": 2.3,
+              "t850_min": 2.2,
               "iso_min": null,
               "snow_depth_max_m": 0.0,
-              "cape_max": 10.0
+              "cape_max": 20.0
             },
             "2026-11-23": {
-              "tmax": 12.7,
-              "tmin": 2.2,
+              "tmax": 12.6,
+              "tmin": 2.0,
               "rain_prob": 0,
               "rain_mm": 0.0,
               "snow_cm": 0.0,
-              "wind_gust": 16.2,
-              "wind_dir": 39,
+              "wind_gust": 15.1,
+              "wind_dir": 38,
               "weather_code": 3,
-              "feels_max": 10.7,
-              "feels_min": -0.5,
-              "t850_min": 3.7,
+              "feels_max": 10.6,
+              "feels_min": -0.8,
+              "t850_min": 3.9,
               "iso_min": null,
               "snow_depth_max_m": 0.0,
               "cape_max": 0.0
             },
             "2026-11-24": {
-              "tmax": 9.3,
+              "tmax": 7.8,
               "tmin": 3.8,
-              "rain_prob": 61,
-              "rain_mm": 4.1,
+              "rain_prob": 58,
+              "rain_mm": 2.2,
               "snow_cm": 0.0,
-              "wind_gust": 31.0,
-              "wind_dir": 273,
-              "weather_code": 53,
-              "feels_max": 7.4,
-              "feels_min": 1.6,
-              "t850_min": 3.9,
+              "wind_gust": 32.4,
+              "wind_dir": 234,
+              "weather_code": 51,
+              "feels_max": 5.5,
+              "feels_min": 1.4,
+              "t850_min": 2.9,
               "iso_min": null,
               "snow_depth_max_m": 0.0,
-              "cape_max": 20.0
+              "cape_max": 10.0
             },
             "2026-11-25": {
-              "tmax": 9.2,
-              "tmin": 4.6,
-              "rain_prob": 30,
-              "rain_mm": 1.2,
+              "tmax": 9.6,
+              "tmin": 4.8,
+              "rain_prob": 29,
+              "rain_mm": 1.1,
               "snow_cm": 0.0,
-              "wind_gust": 44.3,
-              "wind_dir": 242,
+              "wind_gust": 39.6,
+              "wind_dir": 240,
               "weather_code": 51,
-              "feels_max": 5.9,
-              "feels_min": 0.9,
-              "t850_min": 1.8,
+              "feels_max": 6.0,
+              "feels_min": 1.4,
+              "t850_min": 1.4,
               "iso_min": null,
               "snow_depth_max_m": 0.0,
               "cape_max": 60.0
             },
             "2026-11-26": {
-              "tmax": 9.8,
-              "tmin": 3.2,
-              "rain_prob": 12,
-              "rain_mm": 0.0,
+              "tmax": 7.9,
+              "tmin": 2.4,
+              "rain_prob": 19,
+              "rain_mm": 1.9,
               "snow_cm": 0.0,
               "wind_gust": 28.8,
-              "wind_dir": 246,
-              "weather_code": 3,
-              "feels_max": 7.5,
-              "feels_min": -0.3,
-              "t850_min": 0.4,
+              "wind_dir": 263,
+              "weather_code": 51,
+              "feels_max": 5.8,
+              "feels_min": -0.6,
+              "t850_min": 1.3,
               "iso_min": null,
               "snow_depth_max_m": 0.0,
-              "cape_max": 0.0
+              "cape_max": 20.0
             },
             "2026-11-27": {
-              "tmax": 10.0,
-              "tmin": -1.0,
+              "tmax": 11.6,
+              "tmin": 3.5,
               "rain_prob": 6,
-              "rain_mm": 0.1,
+              "rain_mm": 0.5,
               "snow_cm": 0.0,
               "wind_gust": 29.5,
-              "wind_dir": 243,
-              "weather_code": 1,
-              "feels_max": 7.2,
-              "feels_min": -3.6,
-              "t850_min": 1.9,
+              "wind_dir": 67,
+              "weather_code": 3,
+              "feels_max": 10.2,
+              "feels_min": 1.0,
+              "t850_min": 4.7,
               "iso_min": null,
               "snow_depth_max_m": 0.0,
               "cape_max": 0.0
             },
             "2026-11-28": {
-              "tmax": 11.9,
-              "tmin": 2.3,
-              "rain_prob": 14,
+              "tmax": 11.3,
+              "tmin": 1.8,
+              "rain_prob": 10,
               "rain_mm": 0.0,
               "snow_cm": 0.0,
-              "wind_gust": 18.7,
-              "wind_dir": 68,
+              "wind_gust": 15.5,
+              "wind_dir": 86,
               "weather_code": 3,
-              "feels_max": 9.0,
-              "feels_min": -0.1,
-              "t850_min": 6.0,
+              "feels_max": 7.7,
+              "feels_min": 1.9,
+              "t850_min": 5.7,
               "iso_min": null,
               "snow_depth_max_m": 0.0,
               "cape_max": 0.0
@@ -132,114 +132,114 @@
           },
           "GFS": {
             "2026-11-22": {
-              "tmax": 13.7,
-              "tmin": 9.3,
+              "tmax": 14.0,
+              "tmin": 9.4,
               "rain_prob": 90,
               "rain_mm": 0.5,
               "snow_cm": 0.0,
               "wind_gust": 55.1,
-              "wind_dir": 278,
+              "wind_dir": 277,
               "weather_code": 53,
-              "feels_max": 9.5,
-              "feels_min": 3.7,
-              "t850_min": 1.6,
-              "iso_min": 1750.0,
+              "feels_max": 9.7,
+              "feels_min": 4.0,
+              "t850_min": 1.8,
+              "iso_min": 1790.0,
               "snow_depth_max_m": 0.0,
               "cape_max": 20.0
             },
             "2026-11-23": {
               "tmax": 12.4,
-              "tmin": 6.6,
+              "tmin": 6.7,
               "rain_prob": 0,
               "rain_mm": 0.0,
               "snow_cm": 0.0,
-              "wind_gust": 15.5,
-              "wind_dir": 61,
+              "wind_gust": 15.8,
+              "wind_dir": 60,
               "weather_code": 3,
-              "feels_max": 9.9,
-              "feels_min": 3.2,
-              "t850_min": 3.3,
-              "iso_min": 3170.0,
+              "feels_max": 9.8,
+              "feels_min": 3.3,
+              "t850_min": 3.7,
+              "iso_min": 3250.0,
               "snow_depth_max_m": 0.0,
               "cape_max": 0.0
             },
             "2026-11-24": {
-              "tmax": 13.9,
+              "tmax": 10.7,
               "tmin": 8.2,
-              "rain_prob": 16,
-              "rain_mm": 0.0,
+              "rain_prob": 11,
+              "rain_mm": 0.5,
               "snow_cm": 0.0,
-              "wind_gust": 43.2,
-              "wind_dir": 262,
-              "weather_code": 3,
-              "feels_max": 9.2,
-              "feels_min": 5.1,
-              "t850_min": 1.8,
-              "iso_min": 1810.0,
+              "wind_gust": 42.8,
+              "wind_dir": 245,
+              "weather_code": 51,
+              "feels_max": 7.0,
+              "feels_min": 4.6,
+              "t850_min": 1.4,
+              "iso_min": 1730.0,
               "snow_depth_max_m": 0.0,
               "cape_max": 10.0
             },
             "2026-11-25": {
-              "tmax": 11.0,
-              "tmin": 8.1,
-              "rain_prob": 11,
+              "tmax": 12.0,
+              "tmin": 7.0,
+              "rain_prob": 26,
               "rain_mm": 0.0,
               "snow_cm": 0.0,
-              "wind_gust": 44.3,
-              "wind_dir": 274,
+              "wind_gust": 50.8,
+              "wind_dir": 271,
               "weather_code": 3,
-              "feels_max": 6.5,
-              "feels_min": 2.8,
-              "t850_min": 0.4,
-              "iso_min": 1570.0,
+              "feels_max": 6.8,
+              "feels_min": 2.5,
+              "t850_min": 0.8,
+              "iso_min": 1610.0,
               "snow_depth_max_m": 0.0,
-              "cape_max": 20.0
+              "cape_max": 30.0
             },
             "2026-11-26": {
-              "tmax": 11.8,
-              "tmin": 7.6,
+              "tmax": 11.0,
+              "tmin": 7.1,
               "rain_prob": 13,
               "rain_mm": 0.0,
               "snow_cm": 0.0,
-              "wind_gust": 30.6,
-              "wind_dir": 329,
+              "wind_gust": 22.0,
+              "wind_dir": 317,
               "weather_code": 3,
-              "feels_max": 8.1,
-              "feels_min": 5.1,
-              "t850_min": 1.4,
-              "iso_min": 1710.0,
+              "feels_max": 7.8,
+              "feels_min": 4.8,
+              "t850_min": 1.2,
+              "iso_min": 1690.0,
               "snow_depth_max_m": 0.0,
               "cape_max": 0.0
             },
             "2026-11-27": {
-              "tmax": 11.5,
-              "tmin": 5.8,
-              "rain_prob": 4,
+              "tmax": 13.4,
+              "tmin": 7.9,
+              "rain_prob": 1,
               "rain_mm": 0.0,
               "snow_cm": 0.0,
-              "wind_gust": 7.2,
-              "wind_dir": 111,
-              "weather_code": 1,
-              "feels_max": 8.3,
-              "feels_min": 3.3,
-              "t850_min": 1.6,
-              "iso_min": 1770.0,
+              "wind_gust": 7.6,
+              "wind_dir": 100,
+              "weather_code": 3,
+              "feels_max": 11.8,
+              "feels_min": 5.7,
+              "t850_min": 3.3,
+              "iso_min": 2030.0,
               "snow_depth_max_m": 0.0,
               "cape_max": 0.0
             },
             "2026-11-28": {
-              "tmax": 12.1,
-              "tmin": 5.7,
+              "tmax": 13.2,
+              "tmin": 7.7,
               "rain_prob": 6,
               "rain_mm": 0.0,
               "snow_cm": 0.0,
-              "wind_gust": 7.9,
-              "wind_dir": 71,
-              "weather_code": 0,
-              "feels_max": 8.4,
-              "feels_min": 2.5,
-              "t850_min": 4.1,
-              "iso_min": 3230.0,
+              "wind_gust": 5.0,
+              "wind_dir": 79,
+              "weather_code": 3,
+              "feels_max": 11.3,
+              "feels_min": 5.3,
+              "t850_min": 5.4,
+              "iso_min": 3070.0,
               "snow_depth_max_m": 0.0,
               "cape_max": 0.0
             }
@@ -247,12 +247,12 @@
           "AROME": {
             "2026-11-22": {
               "tmax": 12.8,
-              "tmin": 5.7,
+              "tmin": 6.0,
               "rain_prob": null,
               "rain_mm": 1.1,
               "snow_cm": null,
-              "wind_gust": 47.9,
-              "wind_dir": 273,
+              "wind_gust": 48.6,
+              "wind_dir": 272,
               "weather_code": null,
               "feels_max": 9.8,
               "feels_min": 3.2,
@@ -262,20 +262,20 @@
               "cape_max": 30.0
             },
             "2026-11-23": {
-              "tmax": 12.1,
-              "tmin": 3.1,
+              "tmax": 12.0,
+              "tmin": 2.9,
               "rain_prob": null,
               "rain_mm": 0.0,
               "snow_cm": null,
-              "wind_gust": 17.3,
-              "wind_dir": 21,
+              "wind_gust": 18.4,
+              "wind_dir": 17,
               "weather_code": null,
-              "feels_max": 10.0,
-              "feels_min": 0.0,
+              "feels_max": 9.8,
+              "feels_min": -0.2,
               "t850_min": null,
               "iso_min": null,
               "snow_depth_max_m": null,
-              "cape_max": 40.0
+              "cape_max": 20.0
             }
           }
         },
@@ -314,7 +314,7 @@
         "models": {
           "ECMWF": {
             "2026-11-22T00:00": {
-              "temperature": 10.2,
+              "temperature": 10.4,
               "precipitation": 0.5,
               "rain": 0.5,
               "snowfall": 0.0,
@@ -322,7 +322,7 @@
               "probability": 95
             },
             "2026-11-22T01:00": {
-              "temperature": 10.0,
+              "temperature": 10.3,
               "precipitation": 0.5,
               "rain": 0.5,
               "snowfall": 0.0,
@@ -330,47 +330,47 @@
               "probability": 88
             },
             "2026-11-22T02:00": {
-              "temperature": 9.8,
+              "temperature": 10.1,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 2,
-              "probability": 64
+              "probability": 66
             },
             "2026-11-22T03:00": {
-              "temperature": 9.5,
+              "temperature": 9.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 1,
-              "probability": 29
+              "probability": 34
             },
             "2026-11-22T04:00": {
-              "temperature": 9.1,
+              "temperature": 9.3,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 0,
-              "probability": 4
+              "probability": 10
             },
             "2026-11-22T05:00": {
-              "temperature": 8.5,
+              "temperature": 8.8,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 0,
-              "probability": 0
+              "probability": 1
             },
             "2026-11-22T06:00": {
-              "temperature": 7.8,
+              "temperature": 8.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 0,
+              "weather_code": 1,
               "probability": 0
             },
             "2026-11-22T07:00": {
-              "temperature": 7.6,
+              "temperature": 7.9,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -378,7 +378,7 @@
               "probability": 0
             },
             "2026-11-22T08:00": {
-              "temperature": 7.9,
+              "temperature": 8.1,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -394,7 +394,7 @@
               "probability": 0
             },
             "2026-11-22T10:00": {
-              "temperature": 9.4,
+              "temperature": 9.3,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -402,7 +402,7 @@
               "probability": 0
             },
             "2026-11-22T11:00": {
-              "temperature": 10.3,
+              "temperature": 10.1,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -410,7 +410,7 @@
               "probability": 0
             },
             "2026-11-22T12:00": {
-              "temperature": 11.4,
+              "temperature": 11.0,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -418,7 +418,7 @@
               "probability": 0
             },
             "2026-11-22T13:00": {
-              "temperature": 12.2,
+              "temperature": 11.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -426,6 +426,14 @@
               "probability": 0
             },
             "2026-11-22T14:00": {
+              "temperature": 12.4,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 1,
+              "probability": 0
+            },
+            "2026-11-22T15:00": {
               "temperature": 12.8,
               "precipitation": 0.0,
               "rain": 0.0,
@@ -433,16 +441,8 @@
               "weather_code": 0,
               "probability": 0
             },
-            "2026-11-22T15:00": {
-              "temperature": 13.2,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 0,
-              "probability": 0
-            },
             "2026-11-22T16:00": {
-              "temperature": 12.9,
+              "temperature": 12.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -450,7 +450,7 @@
               "probability": 0
             },
             "2026-11-22T17:00": {
-              "temperature": 11.7,
+              "temperature": 11.5,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -466,7 +466,7 @@
               "probability": 0
             },
             "2026-11-22T19:00": {
-              "temperature": 8.1,
+              "temperature": 8.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -482,7 +482,7 @@
               "probability": 0
             },
             "2026-11-22T21:00": {
-              "temperature": 6.1,
+              "temperature": 6.0,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -490,7 +490,7 @@
               "probability": 0
             },
             "2026-11-22T22:00": {
-              "temperature": 5.4,
+              "temperature": 5.1,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -498,14 +498,6 @@
               "probability": 0
             },
             "2026-11-22T23:00": {
-              "temperature": 4.9,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 0,
-              "probability": 0
-            },
-            "2026-11-23T00:00": {
               "temperature": 4.6,
               "precipitation": 0.0,
               "rain": 0.0,
@@ -513,8 +505,16 @@
               "weather_code": 0,
               "probability": 0
             },
+            "2026-11-23T00:00": {
+              "temperature": 4.2,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 0,
+              "probability": 0
+            },
             "2026-11-23T01:00": {
-              "temperature": 4.4,
+              "temperature": 3.9,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -522,7 +522,7 @@
               "probability": 0
             },
             "2026-11-23T02:00": {
-              "temperature": 4.1,
+              "temperature": 3.6,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -530,7 +530,7 @@
               "probability": 0
             },
             "2026-11-23T03:00": {
-              "temperature": 3.8,
+              "temperature": 3.3,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -538,14 +538,6 @@
               "probability": 0
             },
             "2026-11-23T04:00": {
-              "temperature": 3.5,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 0,
-              "probability": 0
-            },
-            "2026-11-23T05:00": {
               "temperature": 3.0,
               "precipitation": 0.0,
               "rain": 0.0,
@@ -553,48 +545,56 @@
               "weather_code": 0,
               "probability": 0
             },
-            "2026-11-23T06:00": {
-              "temperature": 2.4,
+            "2026-11-23T05:00": {
+              "temperature": 2.6,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 0,
+              "probability": 0
+            },
+            "2026-11-23T06:00": {
+              "temperature": 2.1,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 1,
               "probability": 0
             },
             "2026-11-23T07:00": {
-              "temperature": 2.3,
+              "temperature": 2.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 0,
+              "weather_code": 1,
               "probability": 0
             },
             "2026-11-23T08:00": {
-              "temperature": 3.1,
+              "temperature": 2.9,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 0,
+              "weather_code": 1,
               "probability": 0
             },
             "2026-11-23T09:00": {
-              "temperature": 4.4,
+              "temperature": 4.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 0,
+              "weather_code": 1,
               "probability": 0
             },
             "2026-11-23T10:00": {
-              "temperature": 5.9,
+              "temperature": 5.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 0,
+              "weather_code": 2,
               "probability": 0
             },
             "2026-11-23T11:00": {
-              "temperature": 7.8,
+              "temperature": 7.6,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -602,11 +602,11 @@
               "probability": 0
             },
             "2026-11-23T12:00": {
-              "temperature": 9.9,
+              "temperature": 9.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 2,
+              "weather_code": 1,
               "probability": 0
             },
             "2026-11-23T13:00": {
@@ -614,7 +614,7 @@
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 2,
+              "weather_code": 1,
               "probability": 0
             },
             "2026-11-23T14:00": {
@@ -622,7 +622,7 @@
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 3,
+              "weather_code": 1,
               "probability": 0
             },
             "2026-11-23T15:00": {
@@ -630,27 +630,27 @@
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 3,
+              "weather_code": 1,
               "probability": 0
             },
             "2026-11-23T16:00": {
-              "temperature": 12.4,
+              "temperature": 12.5,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 3,
+              "weather_code": 1,
               "probability": 0
             },
             "2026-11-23T17:00": {
-              "temperature": 11.1,
+              "temperature": 11.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 3,
+              "weather_code": 2,
               "probability": 0
             },
             "2026-11-23T18:00": {
-              "temperature": 9.2,
+              "temperature": 9.3,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -658,7 +658,7 @@
               "probability": 0
             },
             "2026-11-23T19:00": {
-              "temperature": 7.5,
+              "temperature": 7.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -666,43 +666,43 @@
               "probability": 0
             },
             "2026-11-23T20:00": {
-              "temperature": 6.5,
+              "temperature": 6.9,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 2,
+              "weather_code": 3,
               "probability": 0
             },
             "2026-11-23T21:00": {
+              "temperature": 6.3,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 0
+            },
+            "2026-11-23T22:00": {
               "temperature": 5.8,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 1,
-              "probability": 0
-            },
-            "2026-11-23T22:00": {
-              "temperature": 5.3,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 0,
+              "weather_code": 3,
               "probability": 0
             },
             "2026-11-23T23:00": {
-              "temperature": 4.8,
+              "temperature": 5.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 1,
+              "weather_code": 3,
               "probability": 0
             },
             "2026-11-24T00:00": {
-              "temperature": 4.5,
+              "temperature": 4.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 2,
+              "weather_code": 3,
               "probability": 0
             },
             "2026-11-24T01:00": {
@@ -710,19 +710,19 @@
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 2,
+              "weather_code": 3,
               "probability": 0
             },
             "2026-11-24T02:00": {
-              "temperature": 4.3,
+              "temperature": 4.1,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 2,
+              "weather_code": 3,
               "probability": 0
             },
             "2026-11-24T03:00": {
-              "temperature": 4.4,
+              "temperature": 4.0,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -730,7 +730,7 @@
               "probability": 0
             },
             "2026-11-24T04:00": {
-              "temperature": 4.5,
+              "temperature": 4.0,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -738,20 +738,20 @@
               "probability": 0
             },
             "2026-11-24T05:00": {
-              "temperature": 4.3,
+              "temperature": 3.9,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 3,
-              "probability": 0
+              "probability": 1
             },
             "2026-11-24T06:00": {
-              "temperature": 4.0,
+              "temperature": 3.8,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 3,
-              "probability": 0
+              "probability": 1
             },
             "2026-11-24T07:00": {
               "temperature": 4.0,
@@ -759,135 +759,135 @@
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 3,
-              "probability": 0
+              "probability": 4
             },
             "2026-11-24T08:00": {
-              "temperature": 4.5,
-              "precipitation": 0.1,
-              "rain": 0.1,
+              "temperature": 4.7,
+              "precipitation": 0.0,
+              "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 51,
-              "probability": 3
-            },
-            "2026-11-24T09:00": {
-              "temperature": 5.3,
-              "precipitation": 0.1,
-              "rain": 0.1,
-              "snowfall": 0.0,
-              "weather_code": 51,
+              "weather_code": 3,
               "probability": 8
             },
-            "2026-11-24T10:00": {
-              "temperature": 6.1,
-              "precipitation": 0.1,
-              "rain": 0.1,
+            "2026-11-24T09:00": {
+              "temperature": 5.6,
+              "precipitation": 0.0,
+              "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 51,
-              "probability": 12
+              "weather_code": 3,
+              "probability": 14
+            },
+            "2026-11-24T10:00": {
+              "temperature": 6.3,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 22
             },
             "2026-11-24T11:00": {
-              "temperature": 7.0,
-              "precipitation": 0.4,
-              "rain": 0.4,
+              "temperature": 6.7,
+              "precipitation": 0.2,
+              "rain": 0.2,
               "snowfall": 0.0,
               "weather_code": 51,
-              "probability": 15
+              "probability": 34
             },
             "2026-11-24T12:00": {
-              "temperature": 8.0,
-              "precipitation": 0.4,
-              "rain": 0.4,
+              "temperature": 6.8,
+              "precipitation": 0.2,
+              "rain": 0.2,
               "snowfall": 0.0,
               "weather_code": 51,
-              "probability": 18
-            },
-            "2026-11-24T13:00": {
-              "temperature": 8.6,
-              "precipitation": 0.4,
-              "rain": 0.4,
-              "snowfall": 0.0,
-              "weather_code": 51,
-              "probability": 24
-            },
-            "2026-11-24T14:00": {
-              "temperature": 8.7,
-              "precipitation": 0.6,
-              "rain": 0.6,
-              "snowfall": 0.0,
-              "weather_code": 53,
-              "probability": 35
-            },
-            "2026-11-24T15:00": {
-              "temperature": 8.5,
-              "precipitation": 0.6,
-              "rain": 0.6,
-              "snowfall": 0.0,
-              "weather_code": 53,
               "probability": 48
             },
-            "2026-11-24T16:00": {
-              "temperature": 8.2,
-              "precipitation": 0.6,
-              "rain": 0.6,
+            "2026-11-24T13:00": {
+              "temperature": 7.0,
+              "precipitation": 0.2,
+              "rain": 0.2,
               "snowfall": 0.0,
-              "weather_code": 53,
+              "weather_code": 51,
               "probability": 57
             },
-            "2026-11-24T17:00": {
+            "2026-11-24T14:00": {
+              "temperature": 7.4,
+              "precipitation": 0.4,
+              "rain": 0.4,
+              "snowfall": 0.0,
+              "weather_code": 51,
+              "probability": 58
+            },
+            "2026-11-24T15:00": {
+              "temperature": 7.8,
+              "precipitation": 0.4,
+              "rain": 0.4,
+              "snowfall": 0.0,
+              "weather_code": 51,
+              "probability": 54
+            },
+            "2026-11-24T16:00": {
               "temperature": 8.0,
               "precipitation": 0.4,
               "rain": 0.4,
-              "snowfall": 0.0,
-              "weather_code": 51,
-              "probability": 61
-            },
-            "2026-11-24T18:00": {
-              "temperature": 7.7,
-              "precipitation": 0.4,
-              "rain": 0.4,
-              "snowfall": 0.0,
-              "weather_code": 51,
-              "probability": 61
-            },
-            "2026-11-24T19:00": {
-              "temperature": 7.5,
-              "precipitation": 0.4,
-              "rain": 0.4,
-              "snowfall": 0.0,
-              "weather_code": 51,
-              "probability": 59
-            },
-            "2026-11-24T20:00": {
-              "temperature": 7.4,
-              "precipitation": 0.2,
-              "rain": 0.2,
-              "snowfall": 0.0,
-              "weather_code": 51,
-              "probability": 56
-            },
-            "2026-11-24T21:00": {
-              "temperature": 7.4,
-              "precipitation": 0.2,
-              "rain": 0.2,
               "snowfall": 0.0,
               "weather_code": 51,
               "probability": 51
             },
-            "2026-11-24T22:00": {
-              "temperature": 7.3,
-              "precipitation": 0.2,
-              "rain": 0.2,
+            "2026-11-24T17:00": {
+              "temperature": 7.9,
+              "precipitation": 0.1,
+              "rain": 0.1,
               "snowfall": 0.0,
               "weather_code": 51,
-              "probability": 45
+              "probability": 52
             },
-            "2026-11-24T23:00": {
-              "temperature": 7.0,
+            "2026-11-24T18:00": {
+              "temperature": 7.5,
+              "precipitation": 0.1,
+              "rain": 0.1,
+              "snowfall": 0.0,
+              "weather_code": 51,
+              "probability": 54
+            },
+            "2026-11-24T19:00": {
+              "temperature": 7.1,
+              "precipitation": 0.1,
+              "rain": 0.1,
+              "snowfall": 0.0,
+              "weather_code": 51,
+              "probability": 53
+            },
+            "2026-11-24T20:00": {
+              "temperature": 6.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 2,
-              "probability": 38
+              "probability": 48
+            },
+            "2026-11-24T21:00": {
+              "temperature": 6.4,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 2,
+              "probability": 41
+            },
+            "2026-11-24T22:00": {
+              "temperature": 6.1,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 2,
+              "probability": 33
+            },
+            "2026-11-24T23:00": {
+              "temperature": 6.0,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 2,
+              "probability": 25
             }
           },
           "GFS": {
@@ -948,7 +948,7 @@
               "probability": 0
             },
             "2026-11-22T07:00": {
-              "temperature": 9.7,
+              "temperature": 9.8,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -956,7 +956,7 @@
               "probability": 0
             },
             "2026-11-22T08:00": {
-              "temperature": 9.4,
+              "temperature": 9.6,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -964,7 +964,7 @@
               "probability": 0
             },
             "2026-11-22T09:00": {
-              "temperature": 9.4,
+              "temperature": 9.6,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -972,7 +972,7 @@
               "probability": 0
             },
             "2026-11-22T10:00": {
-              "temperature": 10.2,
+              "temperature": 10.5,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -980,7 +980,7 @@
               "probability": 0
             },
             "2026-11-22T11:00": {
-              "temperature": 11.1,
+              "temperature": 11.5,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -988,7 +988,7 @@
               "probability": 0
             },
             "2026-11-22T12:00": {
-              "temperature": 11.9,
+              "temperature": 12.3,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -996,7 +996,7 @@
               "probability": 0
             },
             "2026-11-22T13:00": {
-              "temperature": 12.8,
+              "temperature": 13.1,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -1004,7 +1004,7 @@
               "probability": 0
             },
             "2026-11-22T14:00": {
-              "temperature": 13.4,
+              "temperature": 13.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -1012,7 +1012,7 @@
               "probability": 0
             },
             "2026-11-22T15:00": {
-              "temperature": 13.7,
+              "temperature": 14.0,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -1020,7 +1020,7 @@
               "probability": 0
             },
             "2026-11-22T16:00": {
-              "temperature": 13.7,
+              "temperature": 13.9,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -1028,7 +1028,7 @@
               "probability": 0
             },
             "2026-11-22T17:00": {
-              "temperature": 13.2,
+              "temperature": 13.6,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -1036,7 +1036,7 @@
               "probability": 0
             },
             "2026-11-22T18:00": {
-              "temperature": 12.4,
+              "temperature": 12.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -1044,7 +1044,7 @@
               "probability": 0
             },
             "2026-11-22T19:00": {
-              "temperature": 11.8,
+              "temperature": 12.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -1052,7 +1052,7 @@
               "probability": 0
             },
             "2026-11-22T20:00": {
-              "temperature": 11.2,
+              "temperature": 11.6,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -1060,7 +1060,7 @@
               "probability": 0
             },
             "2026-11-22T21:00": {
-              "temperature": 10.7,
+              "temperature": 10.9,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -1068,7 +1068,7 @@
               "probability": 0
             },
             "2026-11-22T22:00": {
-              "temperature": 10.1,
+              "temperature": 10.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -1092,7 +1092,7 @@
               "probability": 0
             },
             "2026-11-23T01:00": {
-              "temperature": 9.2,
+              "temperature": 9.1,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -1140,7 +1140,7 @@
               "probability": 0
             },
             "2026-11-23T07:00": {
-              "temperature": 7.1,
+              "temperature": 7.0,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -1164,7 +1164,7 @@
               "probability": 0
             },
             "2026-11-23T10:00": {
-              "temperature": 7.7,
+              "temperature": 7.8,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -1180,11 +1180,11 @@
               "probability": 0
             },
             "2026-11-23T12:00": {
-              "temperature": 10.1,
+              "temperature": 10.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 1,
+              "weather_code": 0,
               "probability": 0
             },
             "2026-11-23T13:00": {
@@ -1192,19 +1192,19 @@
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 2,
+              "weather_code": 3,
               "probability": 0
             },
             "2026-11-23T14:00": {
-              "temperature": 11.9,
+              "temperature": 11.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 2,
+              "weather_code": 3,
               "probability": 0
             },
             "2026-11-23T15:00": {
-              "temperature": 12.2,
+              "temperature": 12.3,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -1220,11 +1220,11 @@
               "probability": 0
             },
             "2026-11-23T17:00": {
-              "temperature": 12.2,
+              "temperature": 12.3,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 3,
+              "weather_code": 1,
               "probability": 0
             },
             "2026-11-23T18:00": {
@@ -1232,7 +1232,7 @@
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 3,
+              "weather_code": 1,
               "probability": 0
             },
             "2026-11-23T19:00": {
@@ -1240,7 +1240,7 @@
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 3,
+              "weather_code": 0,
               "probability": 0
             },
             "2026-11-23T20:00": {
@@ -1252,15 +1252,15 @@
               "probability": 0
             },
             "2026-11-23T21:00": {
-              "temperature": 10.5,
+              "temperature": 10.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 0,
+              "weather_code": 3,
               "probability": 0
             },
             "2026-11-23T22:00": {
-              "temperature": 10.1,
+              "temperature": 10.4,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -1268,7 +1268,7 @@
               "probability": 0
             },
             "2026-11-23T23:00": {
-              "temperature": 9.9,
+              "temperature": 10.0,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -1276,86 +1276,6 @@
               "probability": 0
             },
             "2026-11-24T00:00": {
-              "temperature": 9.7,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 0
-            },
-            "2026-11-24T01:00": {
-              "temperature": 9.4,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 0
-            },
-            "2026-11-24T02:00": {
-              "temperature": 9.1,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 0
-            },
-            "2026-11-24T03:00": {
-              "temperature": 8.8,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 0
-            },
-            "2026-11-24T04:00": {
-              "temperature": 8.4,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 0
-            },
-            "2026-11-24T05:00": {
-              "temperature": 8.2,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 0
-            },
-            "2026-11-24T06:00": {
-              "temperature": 8.5,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 0
-            },
-            "2026-11-24T07:00": {
-              "temperature": 8.7,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 0
-            },
-            "2026-11-24T08:00": {
-              "temperature": 8.8,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 0
-            },
-            "2026-11-24T09:00": {
-              "temperature": 9.1,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 0
-            },
-            "2026-11-24T10:00": {
               "temperature": 9.6,
               "precipitation": 0.0,
               "rain": 0.0,
@@ -1363,24 +1283,104 @@
               "weather_code": 3,
               "probability": 0
             },
-            "2026-11-24T11:00": {
-              "temperature": 10.1,
+            "2026-11-24T01:00": {
+              "temperature": 9.2,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 0
+            },
+            "2026-11-24T02:00": {
+              "temperature": 8.8,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 0
+            },
+            "2026-11-24T03:00": {
+              "temperature": 8.4,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 0
+            },
+            "2026-11-24T04:00": {
+              "temperature": 8.3,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 0
+            },
+            "2026-11-24T05:00": {
+              "temperature": 8.3,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 0
+            },
+            "2026-11-24T06:00": {
+              "temperature": 8.6,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 0
+            },
+            "2026-11-24T07:00": {
+              "temperature": 8.5,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 0
+            },
+            "2026-11-24T08:00": {
+              "temperature": 8.5,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 1
+            },
+            "2026-11-24T09:00": {
+              "temperature": 8.7,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 2
+            },
+            "2026-11-24T10:00": {
+              "temperature": 9.4,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 3,
               "probability": 3
             },
-            "2026-11-24T12:00": {
-              "temperature": 10.7,
+            "2026-11-24T11:00": {
+              "temperature": 10.1,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 3,
-              "probability": 7
+              "probability": 5
+            },
+            "2026-11-24T12:00": {
+              "temperature": 10.4,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 8
             },
             "2026-11-24T13:00": {
-              "temperature": 11.0,
+              "temperature": 10.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -1388,84 +1388,84 @@
               "probability": 10
             },
             "2026-11-24T14:00": {
-              "temperature": 12.8,
-              "precipitation": 0.0,
-              "rain": 0.0,
+              "temperature": 9.9,
+              "precipitation": 0.1,
+              "rain": 0.1,
               "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 12
+              "weather_code": 51,
+              "probability": 11
             },
             "2026-11-24T15:00": {
-              "temperature": 13.9,
-              "precipitation": 0.0,
-              "rain": 0.0,
+              "temperature": 9.1,
+              "precipitation": 0.4,
+              "rain": 0.4,
               "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 12
+              "weather_code": 51,
+              "probability": 10
             },
             "2026-11-24T16:00": {
-              "temperature": 13.1,
+              "temperature": 9.3,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 3,
-              "probability": 13
+              "probability": 10
             },
             "2026-11-24T17:00": {
-              "temperature": 12.2,
+              "temperature": 9.1,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 3,
-              "probability": 14
+              "probability": 10
             },
             "2026-11-24T18:00": {
-              "temperature": 11.3,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 0,
-              "probability": 15
-            },
-            "2026-11-24T19:00": {
-              "temperature": 11.3,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 2,
-              "probability": 16
-            },
-            "2026-11-24T20:00": {
-              "temperature": 10.5,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 0,
-              "probability": 16
-            },
-            "2026-11-24T21:00": {
-              "temperature": 10.3,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 1,
-              "probability": 15
-            },
-            "2026-11-24T22:00": {
               "temperature": 10.1,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 0,
-              "probability": 13
+              "weather_code": 3,
+              "probability": 10
             },
-            "2026-11-24T23:00": {
-              "temperature": 9.8,
+            "2026-11-24T19:00": {
+              "temperature": 10.6,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 2,
+              "probability": 10
+            },
+            "2026-11-24T20:00": {
+              "temperature": 10.6,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 9
+            },
+            "2026-11-24T21:00": {
+              "temperature": 9.9,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 0,
-              "probability": 9
+              "probability": 7
+            },
+            "2026-11-24T22:00": {
+              "temperature": 9.1,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 0,
+              "probability": 6
+            },
+            "2026-11-24T23:00": {
+              "temperature": 8.9,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 0,
+              "probability": 5
             }
           },
           "AROME": {
@@ -1526,7 +1526,7 @@
               "probability": null
             },
             "2026-11-22T07:00": {
-              "temperature": 8.5,
+              "temperature": 8.2,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1542,7 +1542,7 @@
               "probability": null
             },
             "2026-11-22T09:00": {
-              "temperature": 8.6,
+              "temperature": 8.7,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1550,7 +1550,7 @@
               "probability": null
             },
             "2026-11-22T10:00": {
-              "temperature": 9.3,
+              "temperature": 9.5,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1558,7 +1558,7 @@
               "probability": null
             },
             "2026-11-22T11:00": {
-              "temperature": 10.3,
+              "temperature": 10.5,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1566,7 +1566,7 @@
               "probability": null
             },
             "2026-11-22T12:00": {
-              "temperature": 11.1,
+              "temperature": 11.2,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1574,7 +1574,7 @@
               "probability": null
             },
             "2026-11-22T13:00": {
-              "temperature": 11.9,
+              "temperature": 12.2,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1598,7 +1598,7 @@
               "probability": null
             },
             "2026-11-22T16:00": {
-              "temperature": 12.6,
+              "temperature": 12.7,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1630,7 +1630,7 @@
               "probability": null
             },
             "2026-11-22T20:00": {
-              "temperature": 8.1,
+              "temperature": 8.3,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1638,7 +1638,7 @@
               "probability": null
             },
             "2026-11-22T21:00": {
-              "temperature": 6.9,
+              "temperature": 7.8,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1646,7 +1646,7 @@
               "probability": null
             },
             "2026-11-22T22:00": {
-              "temperature": 6.8,
+              "temperature": 7.3,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1654,7 +1654,7 @@
               "probability": null
             },
             "2026-11-22T23:00": {
-              "temperature": 6.0,
+              "temperature": 6.2,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1662,7 +1662,7 @@
               "probability": null
             },
             "2026-11-23T00:00": {
-              "temperature": 5.7,
+              "temperature": 6.0,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1678,7 +1678,7 @@
               "probability": null
             },
             "2026-11-23T02:00": {
-              "temperature": 4.9,
+              "temperature": 5.1,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1686,7 +1686,7 @@
               "probability": null
             },
             "2026-11-23T03:00": {
-              "temperature": 4.8,
+              "temperature": 5.0,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1694,7 +1694,7 @@
               "probability": null
             },
             "2026-11-23T04:00": {
-              "temperature": 4.5,
+              "temperature": 4.8,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1702,7 +1702,7 @@
               "probability": null
             },
             "2026-11-23T05:00": {
-              "temperature": 3.9,
+              "temperature": 4.3,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1710,7 +1710,7 @@
               "probability": null
             },
             "2026-11-23T06:00": {
-              "temperature": 3.8,
+              "temperature": 3.3,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1718,7 +1718,7 @@
               "probability": null
             },
             "2026-11-23T07:00": {
-              "temperature": 3.1,
+              "temperature": 2.9,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1726,7 +1726,7 @@
               "probability": null
             },
             "2026-11-23T08:00": {
-              "temperature": 3.2,
+              "temperature": 3.3,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1742,7 +1742,7 @@
               "probability": null
             },
             "2026-11-23T10:00": {
-              "temperature": 5.8,
+              "temperature": 5.7,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1758,7 +1758,7 @@
               "probability": null
             },
             "2026-11-23T12:00": {
-              "temperature": 9.0,
+              "temperature": 8.8,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1766,7 +1766,7 @@
               "probability": null
             },
             "2026-11-23T13:00": {
-              "temperature": 10.5,
+              "temperature": 10.4,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1774,7 +1774,7 @@
               "probability": null
             },
             "2026-11-23T14:00": {
-              "temperature": 11.5,
+              "temperature": 11.4,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1822,7 +1822,7 @@
               "probability": null
             },
             "2026-11-23T20:00": {
-              "temperature": 8.4,
+              "temperature": 8.0,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1830,7 +1830,7 @@
               "probability": null
             },
             "2026-11-23T21:00": {
-              "temperature": 7.5,
+              "temperature": 7.3,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1838,7 +1838,7 @@
               "probability": null
             },
             "2026-11-23T22:00": {
-              "temperature": 6.6,
+              "temperature": 6.8,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1846,7 +1846,7 @@
               "probability": null
             },
             "2026-11-23T23:00": {
-              "temperature": 6.0,
+              "temperature": 6.5,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -1953,23 +1953,82 @@
           "2026-11-25T22:00": 0.0,
           "2026-11-25T23:00": 0.0
         },
-        "probabilities": {},
-        "errors": {
-          "probabilities": "probabilidad de precipitación: agotados los 4 intentos: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=10)"
+        "probabilities": {
+          "2026-11-22T00:00": 10,
+          "2026-11-22T01:00": 0,
+          "2026-11-22T02:00": 5,
+          "2026-11-22T03:00": 0,
+          "2026-11-22T04:00": 0,
+          "2026-11-22T05:00": 0,
+          "2026-11-22T06:00": 0,
+          "2026-11-22T07:00": 0,
+          "2026-11-22T08:00": 0,
+          "2026-11-22T09:00": 0,
+          "2026-11-22T10:00": 0,
+          "2026-11-22T11:00": 0,
+          "2026-11-22T12:00": 0,
+          "2026-11-22T13:00": 0,
+          "2026-11-22T14:00": 0,
+          "2026-11-22T15:00": 0,
+          "2026-11-22T16:00": 0,
+          "2026-11-22T17:00": 0,
+          "2026-11-22T18:00": 0,
+          "2026-11-22T19:00": 0,
+          "2026-11-22T20:00": 0,
+          "2026-11-22T21:00": 0,
+          "2026-11-22T22:00": 0,
+          "2026-11-22T23:00": 0,
+          "2026-11-23T00:00": 0,
+          "2026-11-23T01:00": 0,
+          "2026-11-23T02:00": 0,
+          "2026-11-23T03:00": 0,
+          "2026-11-23T04:00": 0,
+          "2026-11-23T05:00": 0,
+          "2026-11-23T06:00": 0,
+          "2026-11-23T07:00": 0,
+          "2026-11-23T08:00": 0,
+          "2026-11-23T09:00": 0,
+          "2026-11-23T10:00": 0,
+          "2026-11-23T11:00": 0,
+          "2026-11-23T12:00": 0,
+          "2026-11-23T13:00": 0,
+          "2026-11-23T14:00": 0,
+          "2026-11-23T15:00": 0,
+          "2026-11-23T16:00": 0,
+          "2026-11-23T17:00": 0,
+          "2026-11-23T18:00": 0,
+          "2026-11-23T19:00": 0,
+          "2026-11-23T20:00": 0,
+          "2026-11-23T21:00": 0,
+          "2026-11-23T22:00": 0,
+          "2026-11-23T23:00": 0,
+          "2026-11-24T00:00": 0,
+          "2026-11-24T01:00": 0,
+          "2026-11-24T02:00": 0,
+          "2026-11-24T03:00": 0,
+          "2026-11-24T04:00": 0,
+          "2026-11-24T05:00": 0,
+          "2026-11-24T06:00": 0,
+          "2026-11-24T07:00": 3,
+          "2026-11-24T08:00": 5,
+          "2026-11-24T09:00": 13,
+          "2026-11-24T10:00": 23,
+          "2026-11-24T11:00": 25,
+          "2026-11-24T12:00": 35,
+          "2026-11-24T13:00": 50,
+          "2026-11-24T14:00": 56,
+          "2026-11-24T15:00": 59,
+          "2026-11-24T16:00": 60,
+          "2026-11-24T17:00": 56,
+          "2026-11-24T18:00": 49,
+          "2026-11-24T19:00": 43,
+          "2026-11-24T20:00": 39,
+          "2026-11-24T21:00": 34,
+          "2026-11-24T22:00": 30,
+          "2026-11-24T23:00": 24
         },
+        "errors": {},
         "times": [
-          "2026-11-22T08:00",
-          "2026-11-22T09:00",
-          "2026-11-22T10:00",
-          "2026-11-22T11:00",
-          "2026-11-22T12:00",
-          "2026-11-22T13:00",
-          "2026-11-22T14:00",
-          "2026-11-22T15:00",
-          "2026-11-22T16:00",
-          "2026-11-22T17:00",
-          "2026-11-22T18:00",
-          "2026-11-22T19:00",
           "2026-11-22T20:00",
           "2026-11-22T21:00",
           "2026-11-22T22:00",
@@ -2005,34 +2064,46 @@
           "2026-11-24T04:00",
           "2026-11-24T05:00",
           "2026-11-24T06:00",
-          "2026-11-24T07:00"
+          "2026-11-24T07:00",
+          "2026-11-24T08:00",
+          "2026-11-24T09:00",
+          "2026-11-24T10:00",
+          "2026-11-24T11:00",
+          "2026-11-24T12:00",
+          "2026-11-24T13:00",
+          "2026-11-24T14:00",
+          "2026-11-24T15:00",
+          "2026-11-24T16:00",
+          "2026-11-24T17:00",
+          "2026-11-24T18:00",
+          "2026-11-24T19:00"
         ],
         "diagnostics": {
           "models": {
             "ECMWF": {
               "status": "ok",
               "source": "consulta_nueva",
-              "started_at": "2026-11-22T08:10:11.369327+01:00",
-              "finished_at": "2026-11-22T08:10:11.581115+01:00",
-              "duration_seconds": 0.212,
+              "started_at": "2026-11-22T20:51:09.717203+01:00",
+              "finished_at": "2026-11-22T20:51:09.817896+01:00",
+              "duration_seconds": 0.101,
               "hours": 72,
               "cache_age_seconds_before": null
             },
             "GFS": {
               "status": "ok",
               "source": "consulta_nueva",
-              "started_at": "2026-11-22T08:10:12.081310+01:00",
-              "finished_at": "2026-11-22T08:10:12.414879+01:00",
-              "duration_seconds": 0.334,
+              "started_at": "2026-11-22T20:51:10.318009+01:00",
+              "finished_at": "2026-11-22T20:51:10.424270+01:00",
+              "duration_seconds": 0.106,
               "hours": 72,
               "cache_age_seconds_before": null
             },
             "AROME": {
               "status": "ok",
               "source": "consulta_nueva",
-              "started_at": "2026-11-22T08:10:12.915049+01:00",
-              "finished_at": "2026-11-22T08:10:13.196176+01:00",
-              "duration_seconds": 0.281,
+              "started_at": "2026-11-22T20:51:10.924393+01:00",
+              "finished_at": "2026-11-22T20:51:11.027051+01:00",
+              "duration_seconds": 0.103,
               "hours": 48,
               "cache_age_seconds_before": null
             }
@@ -2040,28 +2111,27 @@
           "ARPEGE": {
             "status": "ok",
             "source": "consulta_o_cache_interna_no_expuesta",
-            "started_at": "2026-11-22T08:10:13.696308+01:00",
-            "finished_at": "2026-11-22T08:10:13.893686+01:00",
-            "duration_seconds": 0.197,
+            "started_at": "2026-11-22T20:51:11.527195+01:00",
+            "finished_at": "2026-11-22T20:51:11.628792+01:00",
+            "duration_seconds": 0.102,
             "hours": 96
           },
           "probabilities": {
-            "status": "error",
-            "source": "consulta_fallida",
-            "started_at": "2026-11-22T08:10:13.893736+01:00",
-            "finished_at": "2026-11-22T08:11:12.846962+01:00",
-            "duration_seconds": 58.953,
-            "hours": 0,
-            "error": "probabilidad de precipitación: agotados los 4 intentos: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=10)"
+            "status": "ok",
+            "source": "consulta_o_cache_interna_no_expuesta",
+            "started_at": "2026-11-22T20:51:11.628825+01:00",
+            "finished_at": "2026-11-22T20:51:11.741386+01:00",
+            "duration_seconds": 0.113,
+            "hours": 72
           }
         }
       },
       "diagnostics": {
         "daily": {
           "status": "ok",
-          "started_at": "2026-11-22T08:10:04.519624+01:00",
-          "finished_at": "2026-11-22T08:10:11.075954+01:00",
-          "duration_seconds": 6.556,
+          "started_at": "2026-11-22T20:51:06.117912+01:00",
+          "finished_at": "2026-11-22T20:51:09.534343+01:00",
+          "duration_seconds": 3.416,
           "error": null,
           "models": {
             "ECMWF": {
@@ -2086,9 +2156,9 @@
           "ARPEGE": {
             "status": "ok",
             "source": "consulta",
-            "started_at": "2026-11-22T08:10:11.076001+01:00",
-            "finished_at": "2026-11-22T08:10:11.369291+01:00",
-            "duration_seconds": 0.293,
+            "started_at": "2026-11-22T20:51:09.534391+01:00",
+            "finished_at": "2026-11-22T20:51:09.717182+01:00",
+            "duration_seconds": 0.183,
             "days": 4
           }
         },
@@ -2097,27 +2167,27 @@
             "ECMWF": {
               "status": "ok",
               "source": "consulta_nueva",
-              "started_at": "2026-11-22T08:10:11.369327+01:00",
-              "finished_at": "2026-11-22T08:10:11.581115+01:00",
-              "duration_seconds": 0.212,
+              "started_at": "2026-11-22T20:51:09.717203+01:00",
+              "finished_at": "2026-11-22T20:51:09.817896+01:00",
+              "duration_seconds": 0.101,
               "hours": 72,
               "cache_age_seconds_before": null
             },
             "GFS": {
               "status": "ok",
               "source": "consulta_nueva",
-              "started_at": "2026-11-22T08:10:12.081310+01:00",
-              "finished_at": "2026-11-22T08:10:12.414879+01:00",
-              "duration_seconds": 0.334,
+              "started_at": "2026-11-22T20:51:10.318009+01:00",
+              "finished_at": "2026-11-22T20:51:10.424270+01:00",
+              "duration_seconds": 0.106,
               "hours": 72,
               "cache_age_seconds_before": null
             },
             "AROME": {
               "status": "ok",
               "source": "consulta_nueva",
-              "started_at": "2026-11-22T08:10:12.915049+01:00",
-              "finished_at": "2026-11-22T08:10:13.196176+01:00",
-              "duration_seconds": 0.281,
+              "started_at": "2026-11-22T20:51:10.924393+01:00",
+              "finished_at": "2026-11-22T20:51:11.027051+01:00",
+              "duration_seconds": 0.103,
               "hours": 48,
               "cache_age_seconds_before": null
             }
@@ -2125,48 +2195,54 @@
           "ARPEGE": {
             "status": "ok",
             "source": "consulta_o_cache_interna_no_expuesta",
-            "started_at": "2026-11-22T08:10:13.696308+01:00",
-            "finished_at": "2026-11-22T08:10:13.893686+01:00",
-            "duration_seconds": 0.197,
+            "started_at": "2026-11-22T20:51:11.527195+01:00",
+            "finished_at": "2026-11-22T20:51:11.628792+01:00",
+            "duration_seconds": 0.102,
             "hours": 96
           },
           "probabilities": {
-            "status": "error",
-            "source": "consulta_fallida",
-            "started_at": "2026-11-22T08:10:13.893736+01:00",
-            "finished_at": "2026-11-22T08:11:12.846962+01:00",
-            "duration_seconds": 58.953,
-            "hours": 0,
-            "error": "probabilidad de precipitación: agotados los 4 intentos: HTTPSConnectionPool(host='api.open-meteo.com', port=443): Read timed out. (read timeout=10)"
+            "status": "ok",
+            "source": "consulta_o_cache_interna_no_expuesta",
+            "started_at": "2026-11-22T20:51:11.628825+01:00",
+            "finished_at": "2026-11-22T20:51:11.741386+01:00",
+            "duration_seconds": 0.113,
+            "hours": 72
           }
         }
       },
       "air_quality": {
-        "2026-11-22": 50,
-        "2026-11-23": 69,
-        "2026-11-24": 62,
-        "2026-11-25": 48,
-        "2026-11-26": 49
+        "2026-11-22": 57,
+        "2026-11-23": 70,
+        "2026-11-24": 60,
+        "2026-11-25": 54,
+        "2026-11-26": 65,
+        "2026-11-27": 56
       },
       "alerts": {
         "models": [
           {
             "model": "ECMWF (europeo)",
             "type": "tmax",
-            "severity": 4.0,
-            "text": "📉🌡️ 2026-11-25: la temperatura máxima bajaría 4.0 °C respecto a hoy (13.2 °C → 9.2 °C)."
+            "severity": 5.1000000000000005,
+            "text": "📉🌡️ 2026-11-24: la temperatura máxima bajaría 5.1 °C respecto a hoy (12.9 °C → 7.8 °C)."
           },
           {
             "model": "ECMWF (europeo)",
             "type": "tmin",
-            "severity": 3.2,
-            "text": "📉🌡️ 2026-11-23: la temperatura mínima bajaría 3.2 °C respecto a hoy (5.4 °C → 2.2 °C)."
+            "severity": 3.0999999999999996,
+            "text": "📉🌡️ 2026-11-23: la temperatura mínima bajaría 3.1 °C respecto a hoy (5.1 °C → 2.0 °C)."
           },
           {
             "model": "ECMWF (europeo)",
             "type": "viento",
-            "severity": 44.3,
-            "text": "💨⚠️ 2026-11-25: rachas de hasta 44 km/h previstas en Hortaleza - C. López de Hoyos 454 (Madrid), componente OSO."
+            "severity": 39.6,
+            "text": "💨 2026-11-25: rachas de hasta 40 km/h previstas en Hortaleza - C. López de Hoyos 454 (Madrid), componente OSO."
+          },
+          {
+            "model": "GFS",
+            "type": "tmax",
+            "severity": 3.3000000000000007,
+            "text": "📉🌡️ 2026-11-24: la temperatura máxima bajaría 3.3 °C respecto a hoy (14.0 °C → 10.7 °C)."
           },
           {
             "model": "GFS",
@@ -2194,119 +2270,119 @@
         "longitude": -4.970196,
         "elevation_m": 1380
       },
-      "generated_at": "2026-11-22T08:13:54.149385+01:00",
+      "generated_at": "2026-11-22T20:52:12.436521+01:00",
       "timezone": "Europe/Madrid",
       "daily": {
         "models": {
           "ECMWF (europeo)": {
             "2026-11-22": {
               "tmax": 8.4,
-              "tmin": 1.8,
+              "tmin": 1.5,
               "rain_prob": 100,
-              "rain_mm": 5.6,
+              "rain_mm": 5.8,
               "snow_cm": 0.0,
               "wind_gust": 60.1,
-              "wind_dir": 260,
+              "wind_dir": 259,
               "weather_code": 53,
-              "feels_max": 2.3,
-              "feels_min": -3.2,
-              "t850_min": 1.2,
+              "feels_max": 1.6,
+              "feels_min": -3.4,
+              "t850_min": 1.0,
               "iso_min": null,
               "snow_depth_max_m": 0.0,
-              "cape_max": 30.0
+              "cape_max": 10.0
             },
             "2026-11-23": {
-              "tmax": 10.6,
-              "tmin": -0.9,
+              "tmax": 10.8,
+              "tmin": -0.6,
               "rain_prob": 0,
               "rain_mm": 0.0,
               "snow_cm": 0.0,
-              "wind_gust": 16.2,
-              "wind_dir": 161,
+              "wind_gust": 17.3,
+              "wind_dir": 158,
               "weather_code": 3,
-              "feels_max": 8.1,
-              "feels_min": -3.8,
-              "t850_min": 3.3,
+              "feels_max": 8.7,
+              "feels_min": -4.0,
+              "t850_min": 3.1,
               "iso_min": null,
               "snow_depth_max_m": 0.0,
               "cape_max": 0.0
             },
             "2026-11-24": {
-              "tmax": 6.8,
-              "tmin": -0.6,
-              "rain_prob": 82,
-              "rain_mm": 6.2,
+              "tmax": 6.7,
+              "tmin": -0.1,
+              "rain_prob": 76,
+              "rain_mm": 4.2,
               "snow_cm": 0.0,
-              "wind_gust": 48.6,
-              "wind_dir": 224,
-              "weather_code": 61,
-              "feels_max": 3.8,
-              "feels_min": -2.6,
-              "t850_min": 1.9,
+              "wind_gust": 51.1,
+              "wind_dir": 240,
+              "weather_code": 53,
+              "feels_max": 1.6,
+              "feels_min": -3.6,
+              "t850_min": 1.4,
               "iso_min": null,
               "snow_depth_max_m": 0.0,
-              "cape_max": 10.0
+              "cape_max": 20.0
             },
             "2026-11-25": {
-              "tmax": 3.4,
-              "tmin": 0.3,
-              "rain_prob": 52,
-              "rain_mm": 3.6,
+              "tmax": 4.0,
+              "tmin": 0.5,
+              "rain_prob": 44,
+              "rain_mm": 2.3,
               "snow_cm": 0.0,
-              "wind_gust": 62.3,
-              "wind_dir": 259,
-              "weather_code": 53,
-              "feels_max": -2.3,
-              "feels_min": -4.6,
-              "t850_min": 0.4,
+              "wind_gust": 61.6,
+              "wind_dir": 266,
+              "weather_code": 51,
+              "feels_max": -1.8,
+              "feels_min": -4.5,
+              "t850_min": 0.7,
               "iso_min": null,
               "snow_depth_max_m": 0.0,
-              "cape_max": 50.0
+              "cape_max": 40.0
             },
             "2026-11-26": {
-              "tmax": 3.9,
-              "tmin": -1.7,
-              "rain_prob": 20,
-              "rain_mm": 0.7,
+              "tmax": 4.7,
+              "tmin": -0.8,
+              "rain_prob": 35,
+              "rain_mm": 4.6,
               "snow_cm": 0.0,
               "wind_gust": 41.0,
-              "wind_dir": 260,
-              "weather_code": 51,
-              "feels_max": 0.7,
-              "feels_min": -5.7,
-              "t850_min": -0.4,
+              "wind_dir": 254,
+              "weather_code": 53,
+              "feels_max": 1.6,
+              "feels_min": -4.9,
+              "t850_min": -0.1,
               "iso_min": null,
               "snow_depth_max_m": 0.0,
-              "cape_max": 0.0
+              "cape_max": 20.0
             },
             "2026-11-27": {
-              "tmax": 6.4,
-              "tmin": -3.5,
-              "rain_prob": 9,
-              "rain_mm": 0.1,
+              "tmax": 9.0,
+              "tmin": 3.2,
+              "rain_prob": 20,
+              "rain_mm": 1.3,
               "snow_cm": 0.0,
               "wind_gust": 28.1,
-              "wind_dir": 215,
-              "weather_code": 1,
-              "feels_max": 2.7,
-              "feels_min": -7.0,
-              "t850_min": 1.8,
+              "wind_dir": 261,
+              "weather_code": 51,
+              "feels_max": 7.0,
+              "feels_min": -0.2,
+              "t850_min": 4.1,
               "iso_min": null,
               "snow_depth_max_m": 0.0,
-              "cape_max": 0.0
+              "cape_max": 20.0
             },
             "2026-11-28": {
               "tmax": 9.5,
-              "tmin": 1.0,
-              "rain_prob": 17,
+              "tmin": -1.8,
+              "rain_prob": 13,
               "rain_mm": 0.0,
               "snow_cm": 0.0,
-              "wind_gust": 24.8,
-              "wind_dir": 244,
+              "wind_gust": 18.4,
+              "wind_dir": 160,
               "weather_code": 3,
-              "feels_max": 6.9,
-              "feels_min": -1.9,
-              "t850_min": 5.9,
+              "feels_max": 7.3,
+              "feels_min": -2.7,
+              "t850_min": 5.8,
               "iso_min": null,
               "snow_depth_max_m": 0.0,
               "cape_max": 0.0
@@ -2315,113 +2391,113 @@
           "GFS": {
             "2026-11-22": {
               "tmax": 6.5,
-              "tmin": 1.3,
+              "tmin": 1.5,
               "rain_prob": 97,
               "rain_mm": 0.1,
               "snow_cm": 0.0,
               "wind_gust": 59.0,
-              "wind_dir": 278,
+              "wind_dir": 277,
               "weather_code": 51,
               "feels_max": 3.5,
-              "feels_min": -3.3,
-              "t850_min": 0.5,
-              "iso_min": 1600.0,
+              "feels_min": -2.9,
+              "t850_min": 1.0,
+              "iso_min": 1670.0,
               "snow_depth_max_m": 0.0,
               "cape_max": 30.0
             },
             "2026-11-23": {
-              "tmax": 10.3,
-              "tmin": 0.5,
+              "tmax": 10.2,
+              "tmin": 0.4,
               "rain_prob": 0,
               "rain_mm": 0.0,
               "snow_cm": 0.0,
-              "wind_gust": 9.4,
-              "wind_dir": 173,
+              "wind_gust": 10.1,
+              "wind_dir": 168,
               "weather_code": 3,
-              "feels_max": 7.4,
-              "feels_min": -2.4,
-              "t850_min": 3.4,
-              "iso_min": 3080.0,
+              "feels_max": 7.1,
+              "feels_min": -2.6,
+              "t850_min": 3.1,
+              "iso_min": 3130.0,
               "snow_depth_max_m": 0.0,
               "cape_max": 0.0
             },
             "2026-11-24": {
-              "tmax": 6.2,
-              "tmin": 1.7,
-              "rain_prob": 68,
-              "rain_mm": 0.6,
+              "tmax": 6.4,
+              "tmin": 2.3,
+              "rain_prob": 84,
+              "rain_mm": 1.0,
               "snow_cm": 0.0,
-              "wind_gust": 48.6,
-              "wind_dir": 262,
-              "weather_code": 53,
-              "feels_max": 2.5,
+              "wind_gust": 49.0,
+              "wind_dir": 253,
+              "weather_code": 51,
+              "feels_max": 1.8,
               "feels_min": -2.9,
               "t850_min": 0.8,
-              "iso_min": 1670.0,
-              "snow_depth_max_m": 0.0,
-              "cape_max": 40.0
-            },
-            "2026-11-25": {
-              "tmax": 4.1,
-              "tmin": 0.5,
-              "rain_prob": 23,
-              "rain_mm": 2.7,
-              "snow_cm": 0.0,
-              "wind_gust": 51.1,
-              "wind_dir": 279,
-              "weather_code": 53,
-              "feels_max": -0.3,
-              "feels_min": -4.2,
-              "t850_min": 0.2,
-              "iso_min": 1560.0,
+              "iso_min": 1680.0,
               "snow_depth_max_m": 0.0,
               "cape_max": 30.0
             },
-            "2026-11-26": {
-              "tmax": 5.1,
-              "tmin": 2.6,
-              "rain_prob": 17,
-              "rain_mm": 1.9,
-              "snow_cm": 0.0,
-              "wind_gust": 40.7,
-              "wind_dir": 308,
-              "weather_code": 51,
-              "feels_max": 1.1,
-              "feels_min": -1.5,
-              "t850_min": 1.1,
-              "iso_min": 1670.0,
+            "2026-11-25": {
+              "tmax": 4.0,
+              "tmin": 0.5,
+              "rain_prob": 33,
+              "rain_mm": 1.3,
+              "snow_cm": 0.07,
+              "wind_gust": 56.9,
+              "wind_dir": 284,
+              "weather_code": 85,
+              "feels_max": -1.8,
+              "feels_min": -4.7,
+              "t850_min": 0.2,
+              "iso_min": 1580.0,
               "snow_depth_max_m": 0.0,
-              "cape_max": 40.0
+              "cape_max": 60.0
+            },
+            "2026-11-26": {
+              "tmax": 5.2,
+              "tmin": 2.4,
+              "rain_prob": 23,
+              "rain_mm": 1.1,
+              "snow_cm": 0.0,
+              "wind_gust": 34.9,
+              "wind_dir": 288,
+              "weather_code": 51,
+              "feels_max": 1.7,
+              "feels_min": -2.0,
+              "t850_min": 0.7,
+              "iso_min": 1630.0,
+              "snow_depth_max_m": 0.0,
+              "cape_max": 30.0
             },
             "2026-11-27": {
-              "tmax": 7.4,
-              "tmin": 1.0,
-              "rain_prob": 6,
-              "rain_mm": 0.0,
+              "tmax": 9.2,
+              "tmin": 3.4,
+              "rain_prob": 3,
+              "rain_mm": 0.9,
               "snow_cm": 0.0,
-              "wind_gust": 11.2,
-              "wind_dir": 335,
-              "weather_code": 3,
-              "feels_max": 3.9,
-              "feels_min": -2.2,
-              "t850_min": 2.3,
-              "iso_min": 1740.0,
+              "wind_gust": 28.1,
+              "wind_dir": 295,
+              "weather_code": 51,
+              "feels_max": 6.2,
+              "feels_min": 1.5,
+              "t850_min": 4.0,
+              "iso_min": 2210.0,
               "snow_depth_max_m": 0.0,
-              "cape_max": 0.0
+              "cape_max": 30.0
             },
             "2026-11-28": {
-              "tmax": 8.0,
-              "tmin": 0.4,
-              "rain_prob": 14,
+              "tmax": 9.1,
+              "tmin": 2.2,
+              "rain_prob": 11,
               "rain_mm": 0.0,
               "snow_cm": 0.0,
-              "wind_gust": 11.9,
-              "wind_dir": 41,
-              "weather_code": 2,
-              "feels_max": 3.8,
-              "feels_min": -2.9,
-              "t850_min": 3.7,
-              "iso_min": 3170.0,
+              "wind_gust": 10.8,
+              "wind_dir": 54,
+              "weather_code": 3,
+              "feels_max": 6.2,
+              "feels_min": 0.1,
+              "t850_min": 5.3,
+              "iso_min": 2970.0,
               "snow_depth_max_m": 0.0,
               "cape_max": 0.0
             }
@@ -2429,15 +2505,15 @@
           "AROME": {
             "2026-11-22": {
               "tmax": 8.6,
-              "tmin": 1.3,
+              "tmin": 1.1,
               "rain_prob": null,
-              "rain_mm": 1.5,
+              "rain_mm": 1.3,
               "snow_cm": null,
               "wind_gust": 69.8,
-              "wind_dir": 284,
+              "wind_dir": 282,
               "weather_code": null,
               "feels_max": 3.8,
-              "feels_min": -2.9,
+              "feels_min": -2.7,
               "t850_min": null,
               "iso_min": null,
               "snow_depth_max_m": null,
@@ -2445,15 +2521,15 @@
             },
             "2026-11-23": {
               "tmax": 9.6,
-              "tmin": 0.3,
+              "tmin": 0.5,
               "rain_prob": null,
               "rain_mm": 0.0,
               "snow_cm": null,
-              "wind_gust": 11.5,
-              "wind_dir": 34,
+              "wind_gust": 10.4,
+              "wind_dir": 37,
               "weather_code": null,
-              "feels_max": 7.1,
-              "feels_min": -2.7,
+              "feels_max": 7.2,
+              "feels_min": -2.4,
               "t850_min": null,
               "iso_min": null,
               "snow_depth_max_m": null,
@@ -2496,7 +2572,7 @@
         "models": {
           "ECMWF": {
             "2026-11-22T00:00": {
-              "temperature": 7.1,
+              "temperature": 6.5,
               "precipitation": 0.5,
               "rain": 0.5,
               "snowfall": 0.0,
@@ -2504,7 +2580,7 @@
               "probability": 100
             },
             "2026-11-22T01:00": {
-              "temperature": 6.2,
+              "temperature": 5.5,
               "precipitation": 0.5,
               "rain": 0.5,
               "snowfall": 0.0,
@@ -2512,39 +2588,39 @@
               "probability": 98
             },
             "2026-11-22T02:00": {
-              "temperature": 5.2,
+              "temperature": 4.6,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 69
+              "weather_code": 1,
+              "probability": 70
             },
             "2026-11-22T03:00": {
-              "temperature": 4.1,
+              "temperature": 3.9,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 2,
-              "probability": 29
+              "probability": 32
             },
             "2026-11-22T04:00": {
               "temperature": 3.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 2,
-              "probability": 0
+              "weather_code": 3,
+              "probability": 4
             },
             "2026-11-22T05:00": {
               "temperature": 2.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 2,
+              "weather_code": 3,
               "probability": 0
             },
             "2026-11-22T06:00": {
-              "temperature": 2.5,
+              "temperature": 2.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2552,23 +2628,23 @@
               "probability": 0
             },
             "2026-11-22T07:00": {
-              "temperature": 2.5,
+              "temperature": 2.1,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 3,
+              "weather_code": 1,
               "probability": 0
             },
             "2026-11-22T08:00": {
-              "temperature": 2.7,
+              "temperature": 2.4,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 3,
+              "weather_code": 2,
               "probability": 0
             },
             "2026-11-22T09:00": {
-              "temperature": 3.2,
+              "temperature": 3.0,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2576,15 +2652,15 @@
               "probability": 0
             },
             "2026-11-22T10:00": {
-              "temperature": 3.8,
+              "temperature": 3.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 2,
+              "weather_code": 3,
               "probability": 0
             },
             "2026-11-22T11:00": {
-              "temperature": 4.6,
+              "temperature": 4.4,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2592,7 +2668,7 @@
               "probability": 0
             },
             "2026-11-22T12:00": {
-              "temperature": 5.4,
+              "temperature": 5.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2600,7 +2676,7 @@
               "probability": 0
             },
             "2026-11-22T13:00": {
-              "temperature": 6.1,
+              "temperature": 5.9,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2608,7 +2684,7 @@
               "probability": 0
             },
             "2026-11-22T14:00": {
-              "temperature": 6.5,
+              "temperature": 6.4,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2616,7 +2692,7 @@
               "probability": 0
             },
             "2026-11-22T15:00": {
-              "temperature": 6.8,
+              "temperature": 6.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2632,7 +2708,7 @@
               "probability": 0
             },
             "2026-11-22T17:00": {
-              "temperature": 5.5,
+              "temperature": 5.6,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2640,7 +2716,7 @@
               "probability": 0
             },
             "2026-11-22T18:00": {
-              "temperature": 4.0,
+              "temperature": 4.1,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2664,7 +2740,7 @@
               "probability": 0
             },
             "2026-11-22T21:00": {
-              "temperature": 1.8,
+              "temperature": 1.9,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2728,7 +2804,7 @@
               "probability": 0
             },
             "2026-11-23T05:00": {
-              "temperature": 0.1,
+              "temperature": 0.0,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2744,47 +2820,47 @@
               "probability": 0
             },
             "2026-11-23T07:00": {
-              "temperature": -0.3,
+              "temperature": -0.4,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 1,
+              "weather_code": 2,
               "probability": 0
             },
             "2026-11-23T08:00": {
-              "temperature": 0.7,
+              "temperature": 0.4,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 1,
+              "weather_code": 2,
               "probability": 0
             },
             "2026-11-23T09:00": {
-              "temperature": 2.1,
+              "temperature": 1.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 1,
+              "weather_code": 2,
               "probability": 0
             },
             "2026-11-23T10:00": {
-              "temperature": 3.8,
+              "temperature": 3.3,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 1,
+              "weather_code": 2,
               "probability": 0
             },
             "2026-11-23T11:00": {
-              "temperature": 6.0,
+              "temperature": 5.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 1,
+              "weather_code": 2,
               "probability": 0
             },
             "2026-11-23T12:00": {
-              "temperature": 8.4,
+              "temperature": 8.3,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2792,7 +2868,7 @@
               "probability": 0
             },
             "2026-11-23T13:00": {
-              "temperature": 10.1,
+              "temperature": 10.3,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2800,7 +2876,7 @@
               "probability": 0
             },
             "2026-11-23T14:00": {
-              "temperature": 10.7,
+              "temperature": 11.0,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2808,31 +2884,31 @@
               "probability": 0
             },
             "2026-11-23T15:00": {
-              "temperature": 10.7,
+              "temperature": 11.0,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 3,
+              "weather_code": 2,
               "probability": 0
             },
             "2026-11-23T16:00": {
-              "temperature": 10.1,
+              "temperature": 10.4,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 3,
+              "weather_code": 2,
               "probability": 0
             },
             "2026-11-23T17:00": {
-              "temperature": 8.7,
+              "temperature": 8.9,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 3,
+              "weather_code": 2,
               "probability": 0
             },
             "2026-11-23T18:00": {
-              "temperature": 6.7,
+              "temperature": 6.8,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2860,7 +2936,7 @@
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 2,
+              "weather_code": 3,
               "probability": 0
             },
             "2026-11-23T22:00": {
@@ -2868,19 +2944,19 @@
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 2,
+              "weather_code": 3,
               "probability": 0
             },
             "2026-11-23T23:00": {
-              "temperature": 1.1,
+              "temperature": 0.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 2,
+              "weather_code": 3,
               "probability": 0
             },
             "2026-11-24T00:00": {
-              "temperature": 1.5,
+              "temperature": 0.5,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2888,7 +2964,7 @@
               "probability": 0
             },
             "2026-11-24T01:00": {
-              "temperature": 1.7,
+              "temperature": 0.4,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2896,7 +2972,7 @@
               "probability": 0
             },
             "2026-11-24T02:00": {
-              "temperature": 1.4,
+              "temperature": 0.3,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2904,7 +2980,7 @@
               "probability": 0
             },
             "2026-11-24T03:00": {
-              "temperature": 0.8,
+              "temperature": 0.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2912,7 +2988,7 @@
               "probability": 0
             },
             "2026-11-24T04:00": {
-              "temperature": 0.6,
+              "temperature": 0.4,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2920,15 +2996,15 @@
               "probability": 0
             },
             "2026-11-24T05:00": {
-              "temperature": 1.0,
+              "temperature": 1.1,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 3,
-              "probability": 2
+              "probability": 1
             },
             "2026-11-24T06:00": {
-              "temperature": 1.7,
+              "temperature": 2.1,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -2936,140 +3012,140 @@
               "probability": 4
             },
             "2026-11-24T07:00": {
-              "temperature": 2.4,
+              "temperature": 2.9,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 3,
-              "probability": 8
+              "probability": 10
             },
             "2026-11-24T08:00": {
               "temperature": 3.3,
-              "precipitation": 0.0,
-              "rain": 0.0,
+              "precipitation": 0.5,
+              "rain": 0.5,
               "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 12
+              "weather_code": 53,
+              "probability": 22
             },
             "2026-11-24T09:00": {
-              "temperature": 4.3,
-              "precipitation": 0.0,
-              "rain": 0.0,
+              "temperature": 3.5,
+              "precipitation": 0.5,
+              "rain": 0.5,
               "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 17
-            },
-            "2026-11-24T10:00": {
-              "temperature": 5.0,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 25
-            },
-            "2026-11-24T11:00": {
-              "temperature": 5.5,
-              "precipitation": 0.2,
-              "rain": 0.2,
-              "snowfall": 0.0,
-              "weather_code": 51,
+              "weather_code": 53,
               "probability": 38
             },
-            "2026-11-24T12:00": {
-              "temperature": 5.9,
-              "precipitation": 0.2,
-              "rain": 0.2,
+            "2026-11-24T10:00": {
+              "temperature": 3.7,
+              "precipitation": 0.5,
+              "rain": 0.5,
               "snowfall": 0.0,
-              "weather_code": 51,
-              "probability": 54
+              "weather_code": 53,
+              "probability": 51
+            },
+            "2026-11-24T11:00": {
+              "temperature": 4.1,
+              "precipitation": 0.6,
+              "rain": 0.6,
+              "snowfall": 0.0,
+              "weather_code": 53,
+              "probability": 58
+            },
+            "2026-11-24T12:00": {
+              "temperature": 4.6,
+              "precipitation": 0.6,
+              "rain": 0.6,
+              "snowfall": 0.0,
+              "weather_code": 53,
+              "probability": 63
             },
             "2026-11-24T13:00": {
-              "temperature": 6.0,
-              "precipitation": 0.2,
-              "rain": 0.2,
+              "temperature": 4.9,
+              "precipitation": 0.6,
+              "rain": 0.6,
               "snowfall": 0.0,
-              "weather_code": 51,
+              "weather_code": 53,
               "probability": 67
             },
             "2026-11-24T14:00": {
-              "temperature": 5.8,
-              "precipitation": 1.6,
-              "rain": 1.6,
+              "temperature": 5.0,
+              "precipitation": 0.2,
+              "rain": 0.2,
               "snowfall": 0.0,
-              "weather_code": 61,
-              "probability": 76
+              "weather_code": 51,
+              "probability": 72
             },
             "2026-11-24T15:00": {
-              "temperature": 5.3,
-              "precipitation": 1.6,
-              "rain": 1.6,
+              "temperature": 4.9,
+              "precipitation": 0.2,
+              "rain": 0.2,
               "snowfall": 0.0,
-              "weather_code": 61,
-              "probability": 81
+              "weather_code": 51,
+              "probability": 76
             },
             "2026-11-24T16:00": {
-              "temperature": 4.9,
-              "precipitation": 1.6,
-              "rain": 1.6,
+              "temperature": 4.7,
+              "precipitation": 0.2,
+              "rain": 0.2,
               "snowfall": 0.0,
-              "weather_code": 61,
-              "probability": 82
+              "weather_code": 51,
+              "probability": 76
             },
             "2026-11-24T17:00": {
-              "temperature": 4.5,
-              "precipitation": 0.2,
-              "rain": 0.2,
+              "temperature": 4.4,
+              "precipitation": 0.1,
+              "rain": 0.1,
               "snowfall": 0.0,
               "weather_code": 51,
-              "probability": 74
+              "probability": 69
             },
             "2026-11-24T18:00": {
-              "temperature": 4.2,
-              "precipitation": 0.2,
-              "rain": 0.2,
+              "temperature": 4.1,
+              "precipitation": 0.1,
+              "rain": 0.1,
               "snowfall": 0.0,
               "weather_code": 51,
-              "probability": 62
+              "probability": 58
             },
             "2026-11-24T19:00": {
-              "temperature": 3.9,
-              "precipitation": 0.2,
-              "rain": 0.2,
-              "snowfall": 0.0,
-              "weather_code": 51,
-              "probability": 51
-            },
-            "2026-11-24T20:00": {
               "temperature": 3.8,
               "precipitation": 0.1,
               "rain": 0.1,
               "snowfall": 0.0,
               "weather_code": 51,
-              "probability": 45
+              "probability": 47
             },
-            "2026-11-24T21:00": {
-              "temperature": 3.6,
-              "precipitation": 0.1,
-              "rain": 0.1,
-              "snowfall": 0.0,
-              "weather_code": 51,
-              "probability": 42
-            },
-            "2026-11-24T22:00": {
-              "temperature": 3.4,
-              "precipitation": 0.1,
-              "rain": 0.1,
-              "snowfall": 0.0,
-              "weather_code": 51,
-              "probability": 37
-            },
-            "2026-11-24T23:00": {
-              "temperature": 3.0,
+            "2026-11-24T20:00": {
+              "temperature": 3.3,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 2,
+              "weather_code": 3,
+              "probability": 38
+            },
+            "2026-11-24T21:00": {
+              "temperature": 2.7,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
               "probability": 29
+            },
+            "2026-11-24T22:00": {
+              "temperature": 2.2,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 22
+            },
+            "2026-11-24T23:00": {
+              "temperature": 1.8,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 17
             }
           },
           "GFS": {
@@ -3138,7 +3214,7 @@
               "probability": 0
             },
             "2026-11-22T08:00": {
-              "temperature": 1.7,
+              "temperature": 1.8,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3146,7 +3222,7 @@
               "probability": 0
             },
             "2026-11-22T09:00": {
-              "temperature": 2.3,
+              "temperature": 2.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3154,7 +3230,7 @@
               "probability": 0
             },
             "2026-11-22T10:00": {
-              "temperature": 3.0,
+              "temperature": 3.6,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3162,7 +3238,7 @@
               "probability": 0
             },
             "2026-11-22T11:00": {
-              "temperature": 3.3,
+              "temperature": 3.9,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3170,7 +3246,7 @@
               "probability": 0
             },
             "2026-11-22T12:00": {
-              "temperature": 4.7,
+              "temperature": 5.1,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3178,7 +3254,7 @@
               "probability": 0
             },
             "2026-11-22T13:00": {
-              "temperature": 5.4,
+              "temperature": 5.8,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3186,7 +3262,7 @@
               "probability": 0
             },
             "2026-11-22T14:00": {
-              "temperature": 5.6,
+              "temperature": 5.9,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3194,7 +3270,7 @@
               "probability": 0
             },
             "2026-11-22T15:00": {
-              "temperature": 5.5,
+              "temperature": 5.8,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3210,7 +3286,7 @@
               "probability": 0
             },
             "2026-11-22T17:00": {
-              "temperature": 5.1,
+              "temperature": 5.0,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3218,7 +3294,7 @@
               "probability": 0
             },
             "2026-11-22T18:00": {
-              "temperature": 3.0,
+              "temperature": 3.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3226,7 +3302,7 @@
               "probability": 0
             },
             "2026-11-22T19:00": {
-              "temperature": 2.2,
+              "temperature": 2.8,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3234,7 +3310,7 @@
               "probability": 0
             },
             "2026-11-22T20:00": {
-              "temperature": 1.9,
+              "temperature": 2.3,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3242,7 +3318,7 @@
               "probability": 0
             },
             "2026-11-22T21:00": {
-              "temperature": 1.7,
+              "temperature": 2.0,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3250,7 +3326,7 @@
               "probability": 0
             },
             "2026-11-22T22:00": {
-              "temperature": 1.5,
+              "temperature": 1.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3258,7 +3334,7 @@
               "probability": 0
             },
             "2026-11-22T23:00": {
-              "temperature": 1.4,
+              "temperature": 1.7,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3266,7 +3342,7 @@
               "probability": 0
             },
             "2026-11-23T00:00": {
-              "temperature": 1.3,
+              "temperature": 1.5,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3274,7 +3350,7 @@
               "probability": 0
             },
             "2026-11-23T01:00": {
-              "temperature": 1.1,
+              "temperature": 1.3,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3282,15 +3358,15 @@
               "probability": 0
             },
             "2026-11-23T02:00": {
-              "temperature": 0.9,
+              "temperature": 1.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 2,
+              "weather_code": 0,
               "probability": 0
             },
             "2026-11-23T03:00": {
-              "temperature": 0.8,
+              "temperature": 1.0,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3306,7 +3382,7 @@
               "probability": 0
             },
             "2026-11-23T05:00": {
-              "temperature": 0.8,
+              "temperature": 0.6,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3314,7 +3390,7 @@
               "probability": 0
             },
             "2026-11-23T06:00": {
-              "temperature": 0.7,
+              "temperature": 0.6,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3330,7 +3406,7 @@
               "probability": 0
             },
             "2026-11-23T08:00": {
-              "temperature": 0.6,
+              "temperature": 0.5,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3342,7 +3418,7 @@
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 2,
+              "weather_code": 3,
               "probability": 0
             },
             "2026-11-23T10:00": {
@@ -3350,7 +3426,7 @@
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 0,
+              "weather_code": 1,
               "probability": 0
             },
             "2026-11-23T11:00": {
@@ -3358,11 +3434,11 @@
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 1,
+              "weather_code": 0,
               "probability": 0
             },
             "2026-11-23T12:00": {
-              "temperature": 8.4,
+              "temperature": 7.8,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3370,7 +3446,7 @@
               "probability": 0
             },
             "2026-11-23T13:00": {
-              "temperature": 9.5,
+              "temperature": 8.8,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3378,19 +3454,19 @@
               "probability": 0
             },
             "2026-11-23T14:00": {
-              "temperature": 10.0,
+              "temperature": 9.8,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 2,
+              "probability": 0
+            },
+            "2026-11-23T15:00": {
+              "temperature": 10.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 3,
-              "probability": 0
-            },
-            "2026-11-23T15:00": {
-              "temperature": 10.3,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 1,
               "probability": 0
             },
             "2026-11-23T16:00": {
@@ -3402,7 +3478,7 @@
               "probability": 0
             },
             "2026-11-23T17:00": {
-              "temperature": 7.5,
+              "temperature": 7.6,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3410,11 +3486,11 @@
               "probability": 0
             },
             "2026-11-23T18:00": {
-              "temperature": 4.3,
+              "temperature": 4.4,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 2,
+              "weather_code": 3,
               "probability": 0
             },
             "2026-11-23T19:00": {
@@ -3426,38 +3502,14 @@
               "probability": 0
             },
             "2026-11-23T20:00": {
-              "temperature": 2.8,
+              "temperature": 3.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 0,
+              "weather_code": 3,
               "probability": 0
             },
             "2026-11-23T21:00": {
-              "temperature": 2.5,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 1,
-              "probability": 0
-            },
-            "2026-11-23T22:00": {
-              "temperature": 2.7,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 0
-            },
-            "2026-11-23T23:00": {
-              "temperature": 2.8,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 0
-            },
-            "2026-11-24T00:00": {
               "temperature": 3.1,
               "precipitation": 0.0,
               "rain": 0.0,
@@ -3465,47 +3517,23 @@
               "weather_code": 3,
               "probability": 0
             },
-            "2026-11-24T01:00": {
-              "temperature": 2.8,
+            "2026-11-23T22:00": {
+              "temperature": 2.9,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 3,
               "probability": 0
             },
-            "2026-11-24T02:00": {
-              "temperature": 3.2,
+            "2026-11-23T23:00": {
+              "temperature": 2.5,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 3,
               "probability": 0
             },
-            "2026-11-24T03:00": {
-              "temperature": 2.2,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 0
-            },
-            "2026-11-24T04:00": {
-              "temperature": 2.1,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 0
-            },
-            "2026-11-24T05:00": {
-              "temperature": 1.9,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 0
-            },
-            "2026-11-24T06:00": {
+            "2026-11-24T00:00": {
               "temperature": 2.3,
               "precipitation": 0.0,
               "rain": 0.0,
@@ -3513,8 +3541,56 @@
               "weather_code": 3,
               "probability": 0
             },
+            "2026-11-24T01:00": {
+              "temperature": 2.5,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 0
+            },
+            "2026-11-24T02:00": {
+              "temperature": 2.9,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 0
+            },
+            "2026-11-24T03:00": {
+              "temperature": 2.6,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 0
+            },
+            "2026-11-24T04:00": {
+              "temperature": 2.7,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 0
+            },
+            "2026-11-24T05:00": {
+              "temperature": 3.1,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 0
+            },
+            "2026-11-24T06:00": {
+              "temperature": 3.7,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 0
+            },
             "2026-11-24T07:00": {
-              "temperature": 2.2,
+              "temperature": 4.1,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
@@ -3522,132 +3598,132 @@
               "probability": 0
             },
             "2026-11-24T08:00": {
-              "temperature": 2.7,
+              "temperature": 4.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 3,
-              "probability": 0
+              "probability": 7
             },
             "2026-11-24T09:00": {
-              "temperature": 3.2,
+              "temperature": 4.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 3,
-              "probability": 0
+              "probability": 16
             },
             "2026-11-24T10:00": {
-              "temperature": 4.6,
-              "precipitation": 0.0,
-              "rain": 0.0,
+              "temperature": 4.3,
+              "precipitation": 0.2,
+              "rain": 0.2,
               "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 6
+              "weather_code": 51,
+              "probability": 29
             },
             "2026-11-24T11:00": {
-              "temperature": 6.1,
+              "temperature": 4.0,
+              "precipitation": 0.3,
+              "rain": 0.3,
+              "snowfall": 0.0,
+              "weather_code": 51,
+              "probability": 49
+            },
+            "2026-11-24T12:00": {
+              "temperature": 5.0,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 3,
-              "probability": 26
+              "probability": 71
             },
-            "2026-11-24T12:00": {
-              "temperature": 5.8,
+            "2026-11-24T13:00": {
+              "temperature": 5.1,
+              "precipitation": 0.4,
+              "rain": 0.4,
+              "snowfall": 0.0,
+              "weather_code": 51,
+              "probability": 84
+            },
+            "2026-11-24T14:00": {
+              "temperature": 4.7,
+              "precipitation": 0.1,
+              "rain": 0.1,
+              "snowfall": 0.0,
+              "weather_code": 51,
+              "probability": 79
+            },
+            "2026-11-24T15:00": {
+              "temperature": 6.4,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 65
+            },
+            "2026-11-24T16:00": {
+              "temperature": 5.5,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 3,
               "probability": 52
             },
-            "2026-11-24T13:00": {
-              "temperature": 4.1,
-              "precipitation": 0.5,
-              "rain": 0.5,
-              "snowfall": 0.0,
-              "weather_code": 53,
-              "probability": 68
-            },
-            "2026-11-24T14:00": {
-              "temperature": 6.2,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 63
-            },
-            "2026-11-24T15:00": {
-              "temperature": 5.4,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 2,
-              "probability": 48
-            },
-            "2026-11-24T16:00": {
-              "temperature": 4.3,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 35
-            },
             "2026-11-24T17:00": {
-              "temperature": 4.3,
+              "temperature": 4.2,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 30
+              "weather_code": 0,
+              "probability": 45
             },
             "2026-11-24T18:00": {
-              "temperature": 4.0,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 3,
-              "probability": 28
-            },
-            "2026-11-24T19:00": {
               "temperature": 3.9,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 3,
-              "probability": 26
+              "probability": 38
+            },
+            "2026-11-24T19:00": {
+              "temperature": 3.8,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 32
             },
             "2026-11-24T20:00": {
-              "temperature": 3.5,
-              "precipitation": 0.1,
-              "rain": 0.1,
+              "temperature": 2.6,
+              "precipitation": 0.0,
+              "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 51,
+              "weather_code": 1,
               "probability": 24
             },
             "2026-11-24T21:00": {
-              "temperature": 2.0,
+              "temperature": 2.8,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
-              "weather_code": 0,
-              "probability": 22
+              "weather_code": 1,
+              "probability": 16
             },
             "2026-11-24T22:00": {
-              "temperature": 1.8,
-              "precipitation": 0.0,
-              "rain": 0.0,
-              "snowfall": 0.0,
-              "weather_code": 0,
-              "probability": 19
-            },
-            "2026-11-24T23:00": {
-              "temperature": 2.7,
+              "temperature": 3.1,
               "precipitation": 0.0,
               "rain": 0.0,
               "snowfall": 0.0,
               "weather_code": 2,
-              "probability": 14
+              "probability": 10
+            },
+            "2026-11-24T23:00": {
+              "temperature": 2.9,
+              "precipitation": 0.0,
+              "rain": 0.0,
+              "snowfall": 0.0,
+              "weather_code": 3,
+              "probability": 6
             }
           },
           "AROME": {
@@ -3708,7 +3784,7 @@
               "probability": null
             },
             "2026-11-22T07:00": {
-              "temperature": 2.7,
+              "temperature": 2.9,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3716,7 +3792,7 @@
               "probability": null
             },
             "2026-11-22T08:00": {
-              "temperature": 2.5,
+              "temperature": 2.4,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3732,7 +3808,7 @@
               "probability": null
             },
             "2026-11-22T10:00": {
-              "temperature": 3.0,
+              "temperature": 3.1,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3740,15 +3816,15 @@
               "probability": null
             },
             "2026-11-22T11:00": {
-              "temperature": 3.5,
-              "precipitation": 0.2,
+              "temperature": 3.7,
+              "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
               "weather_code": null,
               "probability": null
             },
             "2026-11-22T12:00": {
-              "temperature": 4.3,
+              "temperature": 4.7,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3756,7 +3832,7 @@
               "probability": null
             },
             "2026-11-22T13:00": {
-              "temperature": 4.9,
+              "temperature": 5.3,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3764,7 +3840,7 @@
               "probability": null
             },
             "2026-11-22T14:00": {
-              "temperature": 5.6,
+              "temperature": 5.8,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3772,7 +3848,7 @@
               "probability": null
             },
             "2026-11-22T15:00": {
-              "temperature": 6.0,
+              "temperature": 5.9,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3780,7 +3856,7 @@
               "probability": null
             },
             "2026-11-22T16:00": {
-              "temperature": 5.8,
+              "temperature": 6.0,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3796,7 +3872,7 @@
               "probability": null
             },
             "2026-11-22T18:00": {
-              "temperature": 4.3,
+              "temperature": 4.5,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3804,7 +3880,7 @@
               "probability": null
             },
             "2026-11-22T19:00": {
-              "temperature": 3.0,
+              "temperature": 3.5,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3812,7 +3888,7 @@
               "probability": null
             },
             "2026-11-22T20:00": {
-              "temperature": 2.4,
+              "temperature": 2.5,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3820,7 +3896,7 @@
               "probability": null
             },
             "2026-11-22T21:00": {
-              "temperature": 1.9,
+              "temperature": 2.0,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3828,22 +3904,6 @@
               "probability": null
             },
             "2026-11-22T22:00": {
-              "temperature": 1.4,
-              "precipitation": 0.0,
-              "rain": null,
-              "snowfall": null,
-              "weather_code": null,
-              "probability": null
-            },
-            "2026-11-22T23:00": {
-              "temperature": 1.4,
-              "precipitation": 0.0,
-              "rain": null,
-              "snowfall": null,
-              "weather_code": null,
-              "probability": null
-            },
-            "2026-11-23T00:00": {
               "temperature": 1.5,
               "precipitation": 0.0,
               "rain": null,
@@ -3851,8 +3911,24 @@
               "weather_code": null,
               "probability": null
             },
-            "2026-11-23T01:00": {
+            "2026-11-22T23:00": {
               "temperature": 1.3,
+              "precipitation": 0.0,
+              "rain": null,
+              "snowfall": null,
+              "weather_code": null,
+              "probability": null
+            },
+            "2026-11-23T00:00": {
+              "temperature": 1.1,
+              "precipitation": 0.0,
+              "rain": null,
+              "snowfall": null,
+              "weather_code": null,
+              "probability": null
+            },
+            "2026-11-23T01:00": {
+              "temperature": 1.1,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3860,14 +3936,6 @@
               "probability": null
             },
             "2026-11-23T02:00": {
-              "temperature": 1.3,
-              "precipitation": 0.0,
-              "rain": null,
-              "snowfall": null,
-              "weather_code": null,
-              "probability": null
-            },
-            "2026-11-23T03:00": {
               "temperature": 1.2,
               "precipitation": 0.0,
               "rain": null,
@@ -3875,8 +3943,16 @@
               "weather_code": null,
               "probability": null
             },
+            "2026-11-23T03:00": {
+              "temperature": 1.0,
+              "precipitation": 0.0,
+              "rain": null,
+              "snowfall": null,
+              "weather_code": null,
+              "probability": null
+            },
             "2026-11-23T04:00": {
-              "temperature": 0.8,
+              "temperature": 0.9,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3884,7 +3960,7 @@
               "probability": null
             },
             "2026-11-23T05:00": {
-              "temperature": 0.7,
+              "temperature": 0.5,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3900,7 +3976,7 @@
               "probability": null
             },
             "2026-11-23T07:00": {
-              "temperature": 0.3,
+              "temperature": 0.6,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3908,7 +3984,7 @@
               "probability": null
             },
             "2026-11-23T08:00": {
-              "temperature": 0.3,
+              "temperature": 0.9,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3916,7 +3992,7 @@
               "probability": null
             },
             "2026-11-23T09:00": {
-              "temperature": 1.0,
+              "temperature": 1.5,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3932,7 +4008,7 @@
               "probability": null
             },
             "2026-11-23T11:00": {
-              "temperature": 4.9,
+              "temperature": 5.1,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3940,7 +4016,7 @@
               "probability": null
             },
             "2026-11-23T12:00": {
-              "temperature": 6.0,
+              "temperature": 6.5,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3948,7 +4024,7 @@
               "probability": null
             },
             "2026-11-23T13:00": {
-              "temperature": 8.0,
+              "temperature": 7.4,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3964,7 +4040,7 @@
               "probability": null
             },
             "2026-11-23T15:00": {
-              "temperature": 9.5,
+              "temperature": 9.4,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3980,7 +4056,7 @@
               "probability": null
             },
             "2026-11-23T17:00": {
-              "temperature": 8.5,
+              "temperature": 8.4,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3988,7 +4064,7 @@
               "probability": null
             },
             "2026-11-23T18:00": {
-              "temperature": 6.5,
+              "temperature": 6.3,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -3996,7 +4072,7 @@
               "probability": null
             },
             "2026-11-23T19:00": {
-              "temperature": 4.5,
+              "temperature": 4.8,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -4004,7 +4080,7 @@
               "probability": null
             },
             "2026-11-23T20:00": {
-              "temperature": 3.3,
+              "temperature": 4.0,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -4012,7 +4088,7 @@
               "probability": null
             },
             "2026-11-23T21:00": {
-              "temperature": 3.1,
+              "temperature": 3.8,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -4020,7 +4096,7 @@
               "probability": null
             },
             "2026-11-23T22:00": {
-              "temperature": 3.0,
+              "temperature": 3.4,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -4028,7 +4104,7 @@
               "probability": null
             },
             "2026-11-23T23:00": {
-              "temperature": 3.3,
+              "temperature": 3.1,
               "precipitation": 0.0,
               "rain": null,
               "snowfall": null,
@@ -4188,41 +4264,29 @@
           "2026-11-24T01:00": 0,
           "2026-11-24T02:00": 0,
           "2026-11-24T03:00": 0,
-          "2026-11-24T04:00": 0,
-          "2026-11-24T05:00": 1,
-          "2026-11-24T06:00": 4,
-          "2026-11-24T07:00": 8,
-          "2026-11-24T08:00": 15,
-          "2026-11-24T09:00": 25,
-          "2026-11-24T10:00": 35,
-          "2026-11-24T11:00": 46,
-          "2026-11-24T12:00": 57,
-          "2026-11-24T13:00": 65,
-          "2026-11-24T14:00": 70,
-          "2026-11-24T15:00": 71,
-          "2026-11-24T16:00": 68,
-          "2026-11-24T17:00": 58,
-          "2026-11-24T18:00": 42,
-          "2026-11-24T19:00": 30,
-          "2026-11-24T20:00": 23,
-          "2026-11-24T21:00": 19,
-          "2026-11-24T22:00": 15,
-          "2026-11-24T23:00": 11
+          "2026-11-24T04:00": 3,
+          "2026-11-24T05:00": 5,
+          "2026-11-24T06:00": 10,
+          "2026-11-24T07:00": 25,
+          "2026-11-24T08:00": 30,
+          "2026-11-24T09:00": 35,
+          "2026-11-24T10:00": 40,
+          "2026-11-24T11:00": 55,
+          "2026-11-24T12:00": 63,
+          "2026-11-24T13:00": 75,
+          "2026-11-24T14:00": 83,
+          "2026-11-24T15:00": 89,
+          "2026-11-24T16:00": 88,
+          "2026-11-24T17:00": 74,
+          "2026-11-24T18:00": 52,
+          "2026-11-24T19:00": 35,
+          "2026-11-24T20:00": 27,
+          "2026-11-24T21:00": 23,
+          "2026-11-24T22:00": 20,
+          "2026-11-24T23:00": 17
         },
         "errors": {},
         "times": [
-          "2026-11-22T08:00",
-          "2026-11-22T09:00",
-          "2026-11-22T10:00",
-          "2026-11-22T11:00",
-          "2026-11-22T12:00",
-          "2026-11-22T13:00",
-          "2026-11-22T14:00",
-          "2026-11-22T15:00",
-          "2026-11-22T16:00",
-          "2026-11-22T17:00",
-          "2026-11-22T18:00",
-          "2026-11-22T19:00",
           "2026-11-22T20:00",
           "2026-11-22T21:00",
           "2026-11-22T22:00",
@@ -4258,34 +4322,46 @@
           "2026-11-24T04:00",
           "2026-11-24T05:00",
           "2026-11-24T06:00",
-          "2026-11-24T07:00"
+          "2026-11-24T07:00",
+          "2026-11-24T08:00",
+          "2026-11-24T09:00",
+          "2026-11-24T10:00",
+          "2026-11-24T11:00",
+          "2026-11-24T12:00",
+          "2026-11-24T13:00",
+          "2026-11-24T14:00",
+          "2026-11-24T15:00",
+          "2026-11-24T16:00",
+          "2026-11-24T17:00",
+          "2026-11-24T18:00",
+          "2026-11-24T19:00"
         ],
         "diagnostics": {
           "models": {
             "ECMWF": {
               "status": "ok",
               "source": "consulta_nueva",
-              "started_at": "2026-11-22T08:12:59.047477+01:00",
-              "finished_at": "2026-11-22T08:12:59.282776+01:00",
-              "duration_seconds": 0.235,
+              "started_at": "2026-11-22T20:51:17.452273+01:00",
+              "finished_at": "2026-11-22T20:51:17.553318+01:00",
+              "duration_seconds": 0.101,
               "hours": 72,
               "cache_age_seconds_before": null
             },
             "GFS": {
               "status": "ok",
               "source": "consulta_nueva",
-              "started_at": "2026-11-22T08:12:59.782971+01:00",
-              "finished_at": "2026-11-22T08:13:00.080317+01:00",
-              "duration_seconds": 0.297,
+              "started_at": "2026-11-22T20:51:18.053455+01:00",
+              "finished_at": "2026-11-22T20:51:18.166478+01:00",
+              "duration_seconds": 0.113,
               "hours": 72,
               "cache_age_seconds_before": null
             },
             "AROME": {
               "status": "ok",
               "source": "consulta_nueva",
-              "started_at": "2026-11-22T08:13:00.580488+01:00",
-              "finished_at": "2026-11-22T08:13:00.805222+01:00",
-              "duration_seconds": 0.225,
+              "started_at": "2026-11-22T20:51:18.666615+01:00",
+              "finished_at": "2026-11-22T20:51:18.771826+01:00",
+              "duration_seconds": 0.105,
               "hours": 48,
               "cache_age_seconds_before": null
             }
@@ -4293,17 +4369,17 @@
           "ARPEGE": {
             "status": "ok",
             "source": "consulta_o_cache_interna_no_expuesta",
-            "started_at": "2026-11-22T08:13:01.305414+01:00",
-            "finished_at": "2026-11-22T08:13:01.440969+01:00",
-            "duration_seconds": 0.136,
+            "started_at": "2026-11-22T20:51:19.271946+01:00",
+            "finished_at": "2026-11-22T20:51:19.453349+01:00",
+            "duration_seconds": 0.181,
             "hours": 96
           },
           "probabilities": {
             "status": "ok",
             "source": "consulta_o_cache_interna_no_expuesta",
-            "started_at": "2026-11-22T08:13:01.441016+01:00",
-            "finished_at": "2026-11-22T08:13:01.614080+01:00",
-            "duration_seconds": 0.173,
+            "started_at": "2026-11-22T20:51:19.453378+01:00",
+            "finished_at": "2026-11-22T20:51:19.565837+01:00",
+            "duration_seconds": 0.112,
             "hours": 72
           }
         }
@@ -4311,9 +4387,9 @@
       "diagnostics": {
         "daily": {
           "status": "ok",
-          "started_at": "2026-11-22T08:11:14.736150+01:00",
-          "finished_at": "2026-11-22T08:12:58.910296+01:00",
-          "duration_seconds": 104.174,
+          "started_at": "2026-11-22T20:51:13.923137+01:00",
+          "finished_at": "2026-11-22T20:51:17.332414+01:00",
+          "duration_seconds": 3.409,
           "error": null,
           "models": {
             "ECMWF": {
@@ -4338,9 +4414,9 @@
           "ARPEGE": {
             "status": "ok",
             "source": "consulta",
-            "started_at": "2026-11-22T08:12:58.910340+01:00",
-            "finished_at": "2026-11-22T08:12:59.047442+01:00",
-            "duration_seconds": 0.137,
+            "started_at": "2026-11-22T20:51:17.332464+01:00",
+            "finished_at": "2026-11-22T20:51:17.452241+01:00",
+            "duration_seconds": 0.12,
             "days": 4
           }
         },
@@ -4349,27 +4425,27 @@
             "ECMWF": {
               "status": "ok",
               "source": "consulta_nueva",
-              "started_at": "2026-11-22T08:12:59.047477+01:00",
-              "finished_at": "2026-11-22T08:12:59.282776+01:00",
-              "duration_seconds": 0.235,
+              "started_at": "2026-11-22T20:51:17.452273+01:00",
+              "finished_at": "2026-11-22T20:51:17.553318+01:00",
+              "duration_seconds": 0.101,
               "hours": 72,
               "cache_age_seconds_before": null
             },
             "GFS": {
               "status": "ok",
               "source": "consulta_nueva",
-              "started_at": "2026-11-22T08:12:59.782971+01:00",
-              "finished_at": "2026-11-22T08:13:00.080317+01:00",
-              "duration_seconds": 0.297,
+              "started_at": "2026-11-22T20:51:18.053455+01:00",
+              "finished_at": "2026-11-22T20:51:18.166478+01:00",
+              "duration_seconds": 0.113,
               "hours": 72,
               "cache_age_seconds_before": null
             },
             "AROME": {
               "status": "ok",
               "source": "consulta_nueva",
-              "started_at": "2026-11-22T08:13:00.580488+01:00",
-              "finished_at": "2026-11-22T08:13:00.805222+01:00",
-              "duration_seconds": 0.225,
+              "started_at": "2026-11-22T20:51:18.666615+01:00",
+              "finished_at": "2026-11-22T20:51:18.771826+01:00",
+              "duration_seconds": 0.105,
               "hours": 48,
               "cache_age_seconds_before": null
             }
@@ -4377,41 +4453,48 @@
           "ARPEGE": {
             "status": "ok",
             "source": "consulta_o_cache_interna_no_expuesta",
-            "started_at": "2026-11-22T08:13:01.305414+01:00",
-            "finished_at": "2026-11-22T08:13:01.440969+01:00",
-            "duration_seconds": 0.136,
+            "started_at": "2026-11-22T20:51:19.271946+01:00",
+            "finished_at": "2026-11-22T20:51:19.453349+01:00",
+            "duration_seconds": 0.181,
             "hours": 96
           },
           "probabilities": {
             "status": "ok",
             "source": "consulta_o_cache_interna_no_expuesta",
-            "started_at": "2026-11-22T08:13:01.441016+01:00",
-            "finished_at": "2026-11-22T08:13:01.614080+01:00",
-            "duration_seconds": 0.173,
+            "started_at": "2026-11-22T20:51:19.453378+01:00",
+            "finished_at": "2026-11-22T20:51:19.565837+01:00",
+            "duration_seconds": 0.112,
             "hours": 72
           }
         }
       },
       "air_quality": {
         "2026-11-22": 26,
-        "2026-11-23": 25,
-        "2026-11-24": 29,
-        "2026-11-25": 27,
-        "2026-11-26": 30
+        "2026-11-23": 26,
+        "2026-11-24": 25,
+        "2026-11-25": 24,
+        "2026-11-26": 29,
+        "2026-11-27": 31
       },
       "alerts": {
         "models": [
           {
             "model": "ECMWF (europeo)",
             "type": "tmax",
-            "severity": 5.0,
-            "text": "📉🌡️ 2026-11-25: la temperatura máxima bajaría 5.0 °C respecto a hoy (8.4 °C → 3.4 °C)."
+            "severity": 4.4,
+            "text": "📉🌡️ 2026-11-25: la temperatura máxima bajaría 4.4 °C respecto a hoy (8.4 °C → 4.0 °C)."
           },
           {
             "model": "ECMWF (europeo)",
             "type": "viento",
-            "severity": 62.3,
+            "severity": 61.6,
             "text": "💨🔴⚠️ 2026-11-25: rachas de hasta 62 km/h previstas en Oco (Avila), componente O."
+          },
+          {
+            "model": "GFS",
+            "type": "rain",
+            "severity": 2.3,
+            "text": "☔ 2026-11-24: llega la lluvia tras días secos (1.0 mm ese día, prob. máx. 84%). 💧 Acumulado en los próximos 3 días: 2.3 mm."
           },
           {
             "model": "GFS",
@@ -4427,7 +4510,7 @@
         }
       },
       "model_agreement": "🤝📊 🇪🇺 ECMWF (europeo) y 🇺🇸 GFS coinciden razonablemente para 2026-11-23.",
-      "confidence": 65.0,
+      "confidence": 72.0,
       "previous_forecast": {},
       "errors": {}
     }
